@@ -397,7 +397,7 @@ net_rad_1000_obst.fds,281.690, 2.126E+02,216000,10,98
 restart_test1a.fds,132.416
 57.041, 5.422E+01,8192,765,8
 geom_restart_base_case.fds,185.789, 1.841E+02,1000,9900,18
-geom_ls_restart_base_case.fds,113.949, 1.090E+02,12500,417,20
+geom_ls_restart_base_case.fds,451.962, 4.471E+02,12500,2129,16
 clocks_restart_a.fds,83.656
 28.038, 2.524E+01,8000,1250,2
 clocks_restart_base_case.fds,84.258, 8.101E+01,8000,1251,8
