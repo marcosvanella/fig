@@ -1,646 +1,646 @@
 FDS Case,Wall Clock Time (s),CPU Time (s),Number of Cells,Number of Time Steps,Performance Metric (1e-6)
-aerosol_agglomeration.fds,63.231, 6.306E+01,1000,9900,6
-aerosol_agglomeration_2.fds,170.565, 1.704E+02,1000,9900,17
-aerosol_gravitational_deposition.fds,6.911, 6.826E+00,1000,1000,6
-aerosol_gravitational_deposition_2.fds,7.034, 6.954E+00,1000,1000,6
-aerosol_thermophoretic_deposition.fds,9.637, 9.548E+00,1000,2000,4
-aerosol_thermophoretic_deposition_2.fds,9.514, 9.458E+00,1000,2000,4
-aerosol_turbulent_deposition.fds,99.810, 9.965E+01,30,9900,335
-aerosol_scrubbing.fds,275.255, 2.717E+02,64,9900,428
-propane_flame_deposition.fds,83.856, 8.021E+01,2000,1000,40
-propane_flame_deposition_gravitational.fds,83.648, 8.002E+01,2000,1000,40
-propane_flame_deposition_none.fds,73.601, 7.001E+01,2000,1000,35
-propane_flame_deposition_thermophoretic.fds,83.744, 8.011E+01,2000,1000,40
-propane_flame_deposition_turbulent.fds,83.951, 8.028E+01,2000,1000,40
-soot_oxidation_wall.fds,24.448, 2.261E+01,1000,1500,15
-lee_waves.fds,627.496, 6.220E+02,10000,5941,10
-stack_effect.fds,255.697, 2.460E+02,30000,627,13
-lapse_rate.fds,4.592, 1.643E+00,40,4,10268
-MO_velocity_profile_stable.fds,215.234, 2.098E+02,320000,286,2
-MO_velocity_profile_unstable.fds,97.063, 9.146E+01,320000,126,2
-geom_channel.fds,7.462, 5.770E+00,108,89,600
-geom_channel2.fds,3.151, 1.140E+00,22,10,5181
-geom_channel_tmp.fds,15.416, 1.338E+01,24,93,5994
-geom_channel_tmp2.fds,147.592, 1.458E+02,22,9900,669
-geom_extruded_poly.fds,89.583, 8.472E+01,46656,260,6
-geom_hrrpuv_init.fds,20.583, 1.810E+01,8000,314,7
-geom_intersection.fds,0.717, 7.673E-02,1000,4,0
-geom_obst.fds,45.404, 4.182E+01,3375,235,52
-geom_part_init.fds,45.991, 4.175E+01,8000,264,19
-geom_terrain2.fds,21.919, 9.248E+00,64000,18,8
-geom_texture3a.fds,0.697, 1.378E-01,1000,5,0
-geom_texture3b.fds,0.652, 8.492E-02,1000,5,0
-geom_texture4a.fds,1.007, 2.685E-01,1000,5,0
-geom_texture4b.fds,0.621, 9.313E-02,1000,5,0
-sphere_helium_1mesh.fds,38.428, 1.750E+01,262144,10,6
-sphere_radiate.fds,55.991, 1.597E+01,262144,1,60
-sphere_leak.fds,674.797, 6.661E+02,32768,1121,18
-saad_CC_explicit_512_cfl_p25.fds,45.889, 4.528E+01,2048,400,55
-saad_CC_explicit_512_cfl_p125.fds,87.673, 8.628E+01,2048,800,52
-saad_CC_explicit_512_cfl_p0625.fds,126.910, 1.255E+02,2048,1600,38
-shunn3_32_cc_exp_chm.fds,16.367, 1.499E+01,1024,105,139
-shunn3_64_cc_exp_chm.fds,46.436, 4.499E+01,4096,188,58
-shunn3_128_cc_exp_chm.fds,221.915, 2.165E+02,16384,358,36
-shunn3_256_cc_exp_chm.fds,1625.652, 1.577E+03,65536,700,34
-shunn3_320_cc_exp_chm.fds,2398.304, 2.290E+03,102400,872,25
-shunn3_32_cc_exp_gdv.fds,16.238, 1.484E+01,1024,106,136
-shunn3_64_cc_exp_gdv.fds,41.626, 4.017E+01,4096,190,51
-shunn3_128_cc_exp_gdv.fds,154.131, 1.505E+02,16384,359,25
-shunn3_256_cc_exp_gdv.fds,1184.740, 1.140E+03,65536,701,24
-shunn3_320_cc_exp_gdv.fds,1684.579, 1.587E+03,102400,873,17
-geom_poiseuille_N10a_theta0_stm.fds,11.626, 9.547E+00,48,923,215
-geom_poiseuille_N20a_theta0_stm.fds,16.488, 1.468E+01,96,3663,41
-geom_poiseuille_N40a_theta0_stm.fds,50.648, 4.875E+01,192,9900,25
-geom_poiseuille_N80a_theta0_stm.fds,324.435, 3.223E+02,384,9900,84
-geom_poiseuille_N10na_theta0_stm.fds,75.815, 7.395E+01,48,9900,155
-geom_poiseuille_N20na_theta0_stm.fds,119.567, 1.175E+02,96,9900,123
-geom_poiseuille_N40na_theta0_stm.fds,252.630, 2.505E+02,192,9900,131
-geom_poiseuille_N80na_theta0_stm.fds,2939.749, 2.938E+03,384,9900,772
-geom_poiseuille_N10nah_theta0_stm.fds,17.448, 1.546E+01,48,6174,52
-geom_poiseuille_N20nah_theta0_stm.fds,49.015, 4.700E+01,96,9900,49
-geom_poiseuille_N40nah_theta0_stm.fds,281.469, 2.807E+02,192,9900,147
-geom_poiseuille_N80nah_theta0_stm.fds,2067.809, 2.067E+03,384,9900,543
-geom_bad_non_manifold_vert.fds,0.381, 4.796E-02,1000,4,0
-geom_self_intersection.fds,1.533, 6.201E-01,8000,7,0
-rotated_cube_0deg_32_stm.fds,7.463, 6.620E+00,1024,80,80
-rotated_cube_0deg_32_obs.fds,6.573, 5.949E+00,1024,80,72
-rotated_cube_0deg_64_stm.fds,29.376, 2.727E+01,4096,160,41
-rotated_cube_0deg_64_obs.fds,23.312, 2.250E+01,4096,160,34
-rotated_cube_0deg_128_stm.fds,146.116, 1.322E+02,16384,320,25
-rotated_cube_0deg_128_obs.fds,106.110, 1.021E+02,16384,320,19
-rotated_cube_0deg_256_stm.fds,987.108, 8.288E+02,65536,640,19
-rotated_cube_0deg_256_obs.fds,700.269, 6.505E+02,65536,640,15
-rotated_cube_0deg_320_stm.fds,1376.512, 1.266E+03,102400,800,15
-rotated_cube_0deg_320_obs.fds,1111.672, 1.008E+03,102400,800,12
-rotated_cube_27deg_32_stm.fds,5.295, 4.570E+00,1024,54,82
-rotated_cube_27deg_64_stm.fds,17.930, 1.704E+01,4096,107,38
-rotated_cube_27deg_128_stm.fds,80.337, 7.591E+01,16384,214,21
-rotated_cube_27deg_256_stm.fds,548.455, 4.963E+02,65536,428,17
-rotated_cube_27deg_320_stm.fds,827.281, 7.230E+02,102400,535,13
-rotated_cube_45deg_32_stm.fds,5.775, 5.197E+00,1024,68,74
-rotated_cube_45deg_64_stm.fds,23.471, 2.209E+01,4096,135,39
-rotated_cube_45deg_128_stm.fds,105.109, 9.816E+01,16384,269,22
-rotated_cube_45deg_256_stm.fds,741.829, 6.676E+02,65536,538,18
-rotated_cube_45deg_320_stm.fds,976.923, 8.734E+02,102400,673,12
-cone_1mesh.fds,4.210, 4.062E-01,300,3,0
-geom_mass_file_test.fds,40.088, 4.765E+00,64000,3,24
-activate_vents.fds,12.763, 1.066E+01,2100,400,12
-control_test_2.fds,9.149, 6.913E+00,8800,100,7
-create_remove.fds,34.475, 3.253E+01,40,700,1161
-cycle_test.fds,8.813, 6.580E+00,40,126,1305
-device_test.fds,396.109, 3.905E+02,60,2644,2461
-hrr_freeze.fds,101.574, 9.788E+01,8000,1517,8
-rms_cov_corr.fds,156.702, 1.566E+02,1000,9900,15
-rms_example.fds,2.422, 8.480E-01,27,2000,0
-special_time_ramps.fds,0.271, 1.390E-01,64,251,0
-aspiration_detector.fds,15.123, 1.465E+01,1000,1153,12
-smoke_detector.fds,28.925, 2.644E+01,125,314,673
-energy_budget_adiabatic_walls.fds,1863.160, 1.863E+03,32000,9900,5
-energy_budget_adiabatic_two_fuels.fds,405.137, 4.046E+02,4000,9900,10
-energy_budget_cold_walls.fds,1831.569, 1.828E+03,32000,9900,5
-energy_budget_combustion.fds,159.307, 1.563E+02,8000,999,19
-energy_budget_dns_100.fds,1606.867, 1.606E+03,2500,9900,64
-energy_budget_particles.fds,114.125, 1.124E+02,1000,9000,12
-energy_budget_solid.fds,254.446, 2.538E+02,1000,9900,25
-energy_budget_tmix.fds,79.018, 7.869E+01,121,2000,325
-test_hrr_2d_cyl.fds,41.925, 3.881E+01,800,1053,46
-test_hrr_3d.fds,291.068, 2.854E+02,64000,817,5
-extinction_1.fds,69.168, 5.853E+01,,0,0
-extinction_2.fds,68.195, 5.891E+01,,0,0
-box_burn_away2.fds,82.318, 8.034E+01,1000,3000,26
-box_burn_away3.fds,45.404, 4.211E+01,1000,608,69
-box_burn_away4.fds,48.315, 4.568E+01,1000,600,76
-box_burn_away5.fds,130.787, 1.252E+02,1000,3000,41
-box_burn_away6.fds,133.683, 1.281E+02,1000,3000,42
-box_burn_away7.fds,104.745, 9.938E+01,1000,2000,49
-box_burn_away8.fds,72.287, 6.688E+01,1000,600,111
-box_burn_away_2D.fds,54.101, 5.078E+01,100,3000,169
-box_burn_away_2D_residue.fds,66.505, 6.293E+01,100,3000,209
-fire_const_gamma.fds,167.959, 1.673E+02,8192,3000,6
-spray_burner.fds,2163.567, 2.157E+03,24000,9647,9
-HoC_Ideal.fds,8.782, 5.708E+00,1000,147,38
-HoC_NonIdeal.fds,9.123, 6.054E+00,1000,152,39
-simple_test.fds,776.934, 7.721E+02,20736,5914,6
-tmp_lower_limit_simple.fds,21.972, 2.103E+01,2000,180,58
-tmp_lower_limit_default.fds,99.770, 9.505E+01,8000,436,27
-tmp_lower_limit_dt_p001.fds,211.201, 2.065E+02,8000,1000,25
-tunnel_const_gamma.fds,90.629, 8.964E+01,400,1077,208
-tunnel_linear_cp.fds,91.553, 9.058E+01,400,1074,210
-divergence_test_1.fds,46.027, 4.353E+01,8000,379,14
-divergence_test_2.fds,17.231, 1.467E+01,81,57,3177
-cyl_test_1.fds,33.546, 3.161E+01,2400,630,20
-cyl_test_2.fds,36.787, 3.480E+01,2400,630,23
-cyl_test_3.fds,1593.680, 1.590E+03,5000,9900,32
-cyl_test_4.fds,1499.426, 1.495E+03,5000,9900,30
-gas_filling.fds,365.340, 3.632E+02,15360,4381,5
-helium_1d_isothermal.fds,16.762, 1.622E+01,8192,150,13
-helium_1d_const_gamma.fds,16.565, 1.617E+01,8192,150,13
-helium_2d_isothermal.fds,1252.154, 1.250E+03,10368,9900,12
-helium_air_jet_floor.fds,46.208, 3.950E+01,108000,71,5
-hole.fds,67.770, 6.286E+01,8000,468,16
-no_hole.fds,66.036, 6.128E+01,8000,468,16
-jet_fan.fds,92.823, 8.731E+01,20000,420,10
-symmetry_test.fds,17.460, 1.666E+01,1000,50,333
-symmetry_test_2.fds,193.666, 1.924E+02,49152,665,5
-tangential_velocity.fds,193.412, 1.896E+02,25000,1044,7
-velocity_bc_test.fds,1881.983, 1.879E+03,375,2959,1693
-blasius_16.fds,48.111, 4.774E+01,384,3569,34
-blasius_32.fds,128.700, 1.283E+02,1536,7170,11
-blasius_64.fds,1236.004, 1.234E+03,6144,9900,20
-mwtest_cfl.fds,84.883, 8.288E+01,120,3054,226
-mass_heat_wall_device_test.fds,582.242, 5.766E+02,256000,614,3
-mass_heat_wall_device_test_2.fds,640.139, 6.342E+02,256000,690,3
-particle_offgas_1.fds,21.346, 1.797E+01,8000,126,17
-particle_offgas_2.fds,26.033, 2.243E+01,8000,126,22
-particle_offgas_3.fds,78.255, 7.559E+01,8000,481,19
-particle_offgas_4.fds,156.713, 1.542E+02,8000,1920,10
-species_conservation_1.fds,57.421, 5.399E+01,8000,559,12
-species_conservation_2.fds,39.427, 3.647E+01,2000,187,97
-species_conservation_3.fds,81.343, 7.963E+01,1000,9900,8
-species_conservation_4.fds,31.345, 3.016E+01,1000,2117,14
-hot_layer_360.fds,656.420, 6.560E+02,1800,9900,36
-realizable_mass_fractions.fds,164.864, 1.609E+02,12000,1137,11
-adiabatic_con_flux.fds,11.739, 1.142E+01,1000,497,22
-adiabatic_net_flux.fds,14.691, 1.292E+01,1000,321,40
-convective_cooling.fds,9.928, 8.252E+00,27,3617,84
-convective_cooling_p1.fds,0.209, 2.172E-02,27,180,0
-convective_cooling_p05.fds,0.564, 8.608E-02,27,720,0
-convective_cooling_p025.fds,0.717, 2.764E-01,27,2880,0
-convective_cooling_p01.fds,2.071, 1.813E+00,27,9900,6
-convective_cooling_p005.fds,5.363, 4.920E+00,27,9900,18
-convective_cooling_p0025.fds,31.989, 3.151E+01,27,9900,117
-convective_cooling_p00125.fds,159.988, 1.597E+02,27,9900,597
-heat_conduction_a.fds,16.748, 1.640E+01,27,4000,151
-heat_conduction_b.fds,22.739, 2.229E+01,27,9900,83
-heat_conduction_c.fds,30.173, 2.974E+01,27,9900,111
-heat_conduction_d.fds,29.925, 2.952E+01,27,9900,110
-heat_conduction_kc.fds,8.424, 8.146E+00,36,9900,22
-insulated_steel_column.fds,420.323, 4.184E+02,2000,9900,21
-insulated_steel_pipe.fds,17.536, 1.725E+01,27,9900,64
-insulated_steel_pipe_2d.fds,35.956, 3.545E+01,105,9900,34
-insulated_steel_plate.fds,17.668, 1.720E+01,27,9900,64
-ht1d_pile.fds,214.117, 2.135E+02,2000,9900,10
-ht3d_pile.fds,289.210, 2.886E+02,2000,9900,14
-ht3d_beam_heating_1.fds,91.067, 9.050E+01,800,9900,11
-ht3d_beam_heating_2.fds,85.553, 8.496E+01,800,9900,10
-ht3d_energy_conservation.fds,213.399, 2.082E+02,62500,1000,3
-ht3d_energy_conservation_2.fds,223.990, 2.161E+02,62500,1000,3
-ht3d_energy_conservation_3.fds,222.413, 2.164E+02,62500,1000,3
-ht3d_ibeam.fds,385.256, 3.562E+02,85184,7200,0
-ht3d_mass_conservation.fds,96.318, 9.428E+01,8000,2359,4
-ht3d_mass_conservation_2.fds,96.184, 9.409E+01,8000,2344,5
-ht3d_slab.fds,7.886, 7.408E+00,27,1440,190
-ht3d_sphere_24.fds,4.945, 2.323E+00,13824,90,1
-thermocouple_time_constant.fds,112.716, 1.110E+02,6750,5546,2
-ashrae7_fixed_flow.fds,2.421, 2.231E+00,8000,119,2
-ashrae7_quadratic.fds,2.711, 2.369E+00,8000,119,2
-ashrae7_table.fds,2.681, 2.349E+00,8000,119,2
-door_crack.fds,1102.236, 1.098E+03,8000,9900,13
-fan_test.fds,13.325, 1.242E+01,40,293,1059
-qfan_test.fds,5.885, 4.573E+00,40,98,1166
-qfan_multi.fds,19.638, 1.857E+01,80,224,1036
-HVAC_aircoil.fds,2.380, 1.414E+00,1000,88,16
-HVAC_damper.fds,20.663, 1.958E+01,8000,289,8
-HVAC_energy_pressure.fds,5.695, 4.630E+00,1100,703,5
-HVAC_filter.fds,127.912, 1.275E+02,1000,9900,12
-HVAC_flow_loss.fds,31.016, 3.082E+01,8000,1781,2
-HVAC_mass_conservation.fds,19.466, 1.917E+01,8000,551,4
-HVAC_mass_transport.fds,18.362, 1.812E+01,8400,485,4
-HVAC_mass_transport_1.fds,15.832, 1.558E+01,8400,485,3
-HVAC_mass_transport_2.fds,16.271, 1.600E+01,8400,485,3
-HVAC_mass_transport_3.fds,17.973, 1.739E+01,8400,485,4
-HVAC_mass_transport_4.fds,17.988, 1.751E+01,8400,485,4
-HVAC_mass_transport_branch.fds,18.262, 1.776E+01,8400,483,4
-HVAC_mass_transport_combine.fds,10.530, 9.980E+00,8400,121,9
-HVAC_mass_transport_conservation_1.fds,229.284, 2.286E+02,8400,5538,4
-HVAC_mass_transport_conservation_2.fds,109.611, 1.090E+02,8400,2768,4
-HVAC_mass_transport_conservation_3.fds,104.266, 1.036E+02,8400,2768,4
-HVAC_mass_transport_conv_0020.fds,3.181, 2.565E+00,8400,80,3
-HVAC_mass_transport_conv_0040.fds,5.438, 4.899E+00,8400,160,3
-HVAC_mass_transport_conv_0080.fds,10.629, 1.004E+01,8400,320,3
-HVAC_mass_transport_conv_0160.fds,20.111, 1.953E+01,8400,640,3
-HVAC_mass_transport_conv_0320.fds,38.776, 3.819E+01,8400,1280,3
-HVAC_mass_transport_energy.fds,7.543, 7.230E+00,1100,1430,4
-HVAC_tee_loss_1.fds,6.162, 5.751E+00,8000,189,3
-HVAC_tee_loss_2.fds,5.530, 5.118E+00,8000,166,3
-leak_test.fds,3.187, 2.846E+00,2000,336,4
-leak_test_2.fds,25.758, 2.505E+01,2000,334,37
-leak_enthalpy.fds,27.180, 2.655E+01,200,500,265
-leak_test_4.fds,431.948, 4.166E+02,64000,376,17
-HVAC_leak_exponent.fds,29.966, 2.966E+01,60,397,1245
-layer_1mesh.fds,181.216, 1.780E+02,8000,2553,8
-obst_sphere_mass_flux.fds,75.460, 3.955E+00,125000,4,7
-obst_cylinder_mass_flux.fds,76.559, 4.973E+01,125000,88,4
-obst_cone_mass_flux.fds,47.388, 3.207E+01,125000,57,4
-obst_box_mass_flux.fds,64.576, 4.148E+01,125000,63,5
-part_orientation_ramp.fds,27.624, 2.675E+01,8000,100,33
-devc_interpolation_velocity.fds,73.899, 7.346E+01,25,9900,296
-devc_interpolation_temperature.fds,78.831, 7.840E+01,25,9900,316
-init_overlap.fds,2.489, 3.207E-01,1000,19,0
-ramp_time.fds,1.635, 3.571E-02,1000,6,0
-ns2d_16.fds,18.921, 1.790E+01,256,295,237
-ns2d_16_nupt1.fds,15.346, 1.361E+01,256,227,234
-ns2d_32.fds,41.975, 4.023E+01,1024,568,69
-ns2d_32_nupt1.fds,32.240, 3.051E+01,1024,440,67
-ns2d_64.fds,121.838, 1.198E+02,4096,1111,26
-ns2d_64_nupt1.fds,101.559, 9.963E+01,4096,946,25
-ns2d_8.fds,11.694, 9.767E+00,64,156,978
-ns2d_8_nupt1.fds,8.486, 6.568E+00,64,120,855
-vort2d_40.fds,32.200, 3.050E+01,1600,360,52
-vort2d_80.fds,93.215, 9.144E+01,6400,720,19
-vort2d_160.fds,448.218, 4.400E+02,25600,1440,11
-vort2d_320.fds,1744.497, 1.635E+03,102400,1944,8
-isentropic.fds,447.443, 4.458E+02,40,6000,1857
-isentropic2.fds,449.527, 4.487E+02,40,6000,1869
-pressure_boundary.fds,1983.677, 1.977E+03,80000,4729,5
-pressure_rise.fds,258.944, 2.565E+02,60,7516,568
-zone_break_fast.fds,116.908, 1.136E+02,30000,600,6
-zone_break_slow.fds,120.482, 1.167E+02,30000,600,6
-zone_break_fast_ulmat.fds,155.671, 1.513E+02,30000,600,8
-zone_break_slow_ulmat.fds,155.087, 1.508E+02,30000,600,8
-obst_coarse_fine_interface.fds,3.127, 1.492E+00,12,43,2891
-dancing_eddies_1mesh.fds,668.286, 6.659E+02,12000,4737,11
-opening_ulmat.fds,7.142, 5.587E+00,512,57,191
-cable_11_insulation_mcc.fds,4.944, 4.702E+00,12,9900,39
-cable_23_insulation_mcc.fds,5.457, 5.287E+00,12,9900,44
-cable_701_insulation_mcc.fds,5.451, 5.293E+00,12,9900,44
-cable_11_jacket_mcc.fds,5.156, 4.955E+00,12,9900,41
-cable_23_jacket_mcc.fds,5.121, 4.933E+00,12,9900,41
-cable_701_jacket_mcc.fds,5.118, 4.919E+00,12,9900,41
-cell_burn_away.fds,42.929, 4.000E+01,125,9900,32
-birch_tga_1step_2.fds,2.723, 2.078E+00,12,9900,17
-birch_tga_1step_20.fds,1.349, 2.180E-01,12,2400,0
-enthalpy.fds,19.832, 1.820E+01,36,1400,361
-ice_cube.fds,19.264, 1.549E+01,1000,1001,15
-liquid_mixture.fds,40.066, 3.877E+01,1000,1811,21
-part_baking_soda_420K.fds,14.367, 1.374E+01,125,9900,11
-part_baking_soda_450K.fds,13.511, 1.311E+01,125,9900,10
-part_baking_soda_500K.fds,14.376, 1.391E+01,125,9900,11
-pyrolysis_1.fds,2.472, 2.376E+00,12,9900,20
-pyrolysis_2.fds,2.480, 2.385E+00,12,9900,20
-specified_hrr.fds,18.578, 1.561E+01,36,323,1342
-shrink_swell.fds,1.374, 1.116E-01,18,150,0
-spyro_cone_demo.fds,1.528, 1.315E+00,16,9900,8
-spyro_cone_demo_2.fds,0.622, 5.097E-01,16,6000,0
-spyro_cone_demo_3.fds,0.378, 1.457E-01,9,2000,0
-surf_mass_vent_liquid_fuel.fds,74.814, 7.179E+01,216,9900,33
-surf_mass_vent_liquid_fuel_nonconforming.fds,63.094, 6.014E+01,125,9900,48
-surf_mass_part_char_cart_fuel.fds,85.456, 8.221E+01,216,9900,38
-surf_mass_part_char_cart_gas.fds,49.621, 4.772E+01,216,9900,22
-surf_mass_part_char_cyl_fuel.fds,62.144, 5.871E+01,216,9900,27
-surf_mass_part_char_cyl_gas.fds,62.109, 5.868E+01,216,9900,27
-surf_mass_part_char_spher_fuel.fds,61.813, 5.837E+01,216,9900,27
-surf_mass_part_char_spher_gas.fds,67.105, 6.338E+01,216,9900,29
-surf_mass_part_nonchar_cart_fuel.fds,64.967, 6.124E+01,216,9900,28
-surf_mass_part_nonchar_cart_gas.fds,33.249, 3.141E+01,216,9900,14
-surf_mass_part_nonchar_cyl_fuel.fds,65.119, 6.133E+01,216,9900,28
-surf_mass_part_nonchar_cyl_gas.fds,31.016, 2.917E+01,216,9900,13
-surf_mass_part_nonchar_spher_fuel.fds,60.700, 5.753E+01,216,9900,26
-surf_mass_part_nonchar_spher_gas.fds,30.042, 2.811E+01,216,9900,13
-surf_mass_vent_char_cart_fuel.fds,76.606, 7.334E+01,216,9900,34
-surf_mass_vent_char_cart_gas.fds,33.709, 3.181E+01,216,9900,14
-surf_mass_vent_char_cyl_fuel.fds,54.424, 5.105E+01,216,9900,23
-surf_mass_vent_char_cyl_gas.fds,17.706, 1.581E+01,216,9900,7
-surf_mass_vent_char_spher_fuel.fds,54.401, 5.099E+01,216,9900,23
-surf_mass_vent_char_spher_gas.fds,18.173, 1.635E+01,216,9900,7
-surf_mass_vent_nonchar_cart_fuel.fds,74.998, 7.181E+01,216,9900,33
-surf_mass_vent_nonchar_cart_gas.fds,34.981, 3.305E+01,216,9900,15
-surf_mass_vent_nonchar_cyl_fuel.fds,66.187, 6.298E+01,216,9900,29
-surf_mass_vent_nonchar_cyl_gas.fds,26.293, 2.438E+01,216,9900,11
-surf_mass_vent_nonchar_spher_fuel.fds,53.948, 5.070E+01,216,9900,23
-surf_mass_vent_nonchar_spher_gas.fds,17.889, 1.597E+01,216,9900,7
-surf_mass_part_specified.fds,15.981, 1.437E+01,216,2000,33
-surf_mass_two_species_cart.fds,95.521, 9.234E+01,64,9900,145
-surf_mass_two_species_cyl.fds,94.693, 9.151E+01,64,9900,144
-surf_mass_two_species_spher.fds,94.365, 9.121E+01,64,9900,143
-tga_sample.fds,2.667, 2.544E+00,12,9900,21
-two_step_solid_reaction.fds,1.722, 1.378E+00,36,5000,7
-water_pool.fds,276.544, 2.747E+02,5000,9000,6
-matl_e_cons_1.fds,0.616, 2.984E-02,64,10,0
-matl_e_cons_2.fds,0.630, 9.878E-03,64,10,0
-matl_e_cons_3.fds,0.700, 1.041E-02,64,10,0
-matl_e_cons_4.fds,0.608, 1.719E-02,64,10,0
-matl_e_cons_5.fds,0.670, 9.536E-03,64,10,0
-matl_e_cons_6.fds,0.666, 1.453E-02,64,10,0
-matl_e_cons_7.fds,0.656, 4.026E-02,64,10,0
-matl_e_cons_8.fds,0.649, 4.688E-02,64,10,0
-matl_e_cons_9.fds,0.363, 8.766E-02,64,10,0
-adiabatic_surface_temperature.fds,146.922, 1.447E+02,8000,4056,4
-droplet_absorption_cart.fds,5.440, 2.437E+00,27,1000,90
-droplet_absorption_cyl.fds,4.402, 1.373E+00,9,1000,152
-emissivity.fds,53.142, 5.107E+01,36,1000,1418
-hot_spheres.fds,43.874, 3.704E+01,40,126,7349
-part_attenuation.fds,30.653, 8.995E+00,50,13,13838
-plate_view_factor_2D_30.fds,1.674, 1.454E-01,200,100,0
-plate_view_factor_2D_60.fds,1.655, 1.309E-01,200,100,0
-plate_view_factor_2D_100.fds,2.873, 1.281E+00,200,100,64
-plate_view_factor_cart_30.fds,1.741, 1.417E-01,4000,10,0
-plate_view_factor_cart_60.fds,1.852, 1.587E-01,4000,10,0
-plate_view_factor_cart_100.fds,1.896, 1.712E-01,4000,10,0
-plate_view_factor_cyl_30.fds,2.411, 7.813E-01,100,1000,0
-plate_view_factor_cyl_60.fds,2.440, 8.278E-01,100,1000,0
-plate_view_factor_cyl_100.fds,2.506, 8.534E-01,100,1000,0
-plate_view_factor_ibm_30.fds,368.190, 7.921E+01,1000000,10,7
-plate_view_factor_ibm_60.fds,429.765, 8.849E+01,1000000,10,8
-plate_view_factor_ibm_100.fds,352.488, 7.853E+01,1000000,10,7
-radiating_polygon_square_20.fds,1.871, 1.242E-01,11520,1,0
-radiating_polygon_square_40.fds,6.784, 4.303E+00,92160,1,46
-radiating_polygon_square_80.fds,123.034, 1.079E+02,737280,1,146
-radiation_box_100_1000.fds,106.269, 8.807E+01,1000000,1,88
-radiation_box_100__100.fds,58.349, 1.209E+01,1000000,1,12
-radiation_box_100_2000.fds,202.231, 1.795E+02,1000000,1,179
-radiation_box_100__300.fds,117.281, 2.788E+01,1000000,1,27
-radiation_box_100___50.fds,29.600, 5.270E+00,1000000,1,5
-radiation_box__20_1000.fds,3.361, 4.551E-01,8000,1,0
-radiation_box__20__100.fds,1.886, 8.488E-02,8000,1,0
-radiation_box__20_2000.fds,5.148, 8.892E-01,8000,1,0
-radiation_box__20__300.fds,2.735, 1.647E-01,8000,1,0
-radiation_box__20___50.fds,2.424, 5.640E-02,8000,1,0
-radiation_plane_layer_1_1.fds,2.368, 6.332E-02,8000,1,0
-radiation_plane_layer_1_2.fds,5.966, 2.658E-01,8000,1,0
-radiation_plane_layer_1_3.fds,2.316, 2.441E-02,400,1,0
-radiation_plane_layer_1_4.fds,5.231, 2.043E-02,400,1,0
-radiation_plane_layer_1_5.fds,5.357, 9.279E-01,60000,1,0
-radiation_plane_layer_2_1.fds,2.337, 6.678E-02,8000,1,0
-radiation_plane_layer_2_2.fds,6.304, 2.881E-01,8000,1,0
-radiation_plane_layer_2_3.fds,2.258, 2.915E-02,400,1,0
-radiation_plane_layer_2_4.fds,5.254, 2.044E-02,400,1,0
-radiation_plane_layer_2_5.fds,5.394, 9.596E-01,60000,1,0
-radiation_plane_layer_3_1.fds,1.770, 7.300E-02,8000,1,0
-radiation_plane_layer_3_2.fds,6.010, 3.005E-01,8000,1,0
-radiation_plane_layer_3_3.fds,1.540, 7.007E-03,400,1,0
-radiation_plane_layer_3_4.fds,4.973, 1.946E-02,400,1,0
-radiation_plane_layer_3_5.fds,4.862, 7.994E-01,60000,1,0
-radiation_plane_layer_4_1.fds,1.774, 6.786E-02,8000,1,0
-radiation_plane_layer_4_2.fds,5.898, 2.654E-01,8000,1,0
-radiation_plane_layer_4_3.fds,1.624, 6.563E-03,400,1,0
-radiation_plane_layer_4_4.fds,4.974, 1.942E-02,400,1,0
-radiation_plane_layer_4_5.fds,5.187, 9.017E-01,60000,1,0
-radiation_plane_layer_5_1.fds,1.889, 6.824E-02,8000,1,0
-radiation_plane_layer_5_2.fds,6.045, 2.841E-01,8000,1,0
-radiation_plane_layer_5_3.fds,1.657, 7.192E-03,400,1,0
-radiation_plane_layer_5_4.fds,4.911, 2.030E-02,400,1,0
-radiation_plane_layer_5_5.fds,5.295, 9.341E-01,60000,1,0
-radiation_plane_layer_6_1.fds,1.792, 7.139E-02,8000,1,0
-radiation_plane_layer_6_2.fds,6.204, 2.773E-01,8000,1,0
-radiation_plane_layer_6_3.fds,1.607, 8.460E-03,400,1,0
-radiation_plane_layer_6_4.fds,5.128, 1.962E-02,400,1,0
-radiation_plane_layer_6_5.fds,5.211, 9.211E-01,60000,1,0
-radiation_shield.fds,78.345, 7.663E+01,1000,3132,24
-target_test.fds,6.496, 4.190E+00,50,13,6446
-thermocouples.fds,72.013, 7.022E+01,8000,1911,4
-TC_heating.fds,123.686, 1.220E+02,8000,1879,8
-TC_view_factor.fds,72.698, 7.093E+01,8000,2255,3
-wall_internal_radiation.fds,1.525, 1.937E-03,60,1,0
-net_rad_1000_cgeom.fds,455.520, 3.341E+02,288000,10,116
-net_rad_1000_obst.fds,281.690, 2.126E+02,216000,10,98
-restart_test1a.fds,132.416
-57.041, 5.422E+01,8192,765,8
-geom_restart_base_case.fds,185.789, 1.841E+02,1000,9900,18
-geom_ls_restart_base_case.fds,451.962, 4.471E+02,12500,2129,16
-clocks_restart_a.fds,83.656
-28.038, 2.524E+01,8000,1250,2
-clocks_restart_base_case.fds,84.258, 8.101E+01,8000,1251,8
-burke_schumann.fds,2.751, 9.381E-01,60,2,0
-FED_FIC.fds,10.590, 8.081E+00,500,1000,16
-FED_FIC_SMIX.fds,6.793, 4.280E+00,500,1000,8
-FED_CO_HCN.fds,25.646, 2.273E+01,125,1000,181
-FED_moving.fds,2.217, 6.940E-01,1331,40,0
-mass_flux_comparison.fds,545.484, 5.414E+02,40000,2355,5
-methane_flame_simple.fds,56.807, 5.332E+01,2000,1000,26
-methane_flame_simple_2.fds,57.451, 5.404E+01,2000,1000,27
-methane_flame_primitive.fds,62.642, 5.968E+01,2000,1000,29
-methane_flame_primitive_2.fds,80.006, 7.727E+01,2000,1000,38
-methane_flame_lumped.fds,78.133, 7.504E+01,2000,1000,37
-methane_flame_lumped_fuel.fds,53.585, 5.116E+01,2000,1000,25
-methane_flame_lumped_ox.fds,55.596, 5.306E+01,2000,1000,26
-propane_flame_2reac.fds,140.053, 1.344E+02,32640,463,8
-propane_flame_2reac_simple.fds,140.053, 1.344E+02,32640,463,8
-multiple_reac_hrrpua.fds,7.381, 2.775E+00,1000,145,19
-multiple_reac_n_simple.fds,6.144, 1.700E+00,30,10,5666
-reactionrate_arrhenius_0order_1step.fds,14.337, 1.242E+01,64,9900,19
-reactionrate_arrhenius_2order_1step.fds,5.915, 3.066E+00,512,100,59
-reactionrate_arrhenius_1p75order_2step.fds,9.138, 5.618E+00,512,200,54
-reactionrate_arrhenius_1p75order_2stepr.fds,8.265, 5.831E+00,512,200,56
-reactionrate_arrhenius_equilibrium.fds,16.701, 1.658E+01,16,9900,104
-reactionrate_EDC_1step_CH4_nonmix.fds,9.148, 8.222E+00,100,6000,13
-reactionrate_EDC_flim_1step_C3H8.fds,6.049, 5.019E+00,512,200,49
-reactionrate_EDC_flim_1step_CH4.fds,5.921, 4.880E+00,512,200,47
-reactionrate_EDC_flim_2step.fds,3.361, 6.005E-02,16,100,0
-reactionrate_EDC_O2lim_1step.fds,3.169, 3.963E-01,512,20,0
-reactionrate_EDC_O2lim_2fuel_prim.fds,3.305, 8.218E-02,16,100,0
-reactionrate_EDC_O2lim_2fuel_lump.fds,3.330, 6.330E-02,16,100,0
-reactionrate_fast_slow.fds,145.996, 1.423E+02,8000,999,17
-reactionrate_lumped_two_air.fds,2.027, 5.277E-02,16,100,0
-reactionrate_lumped_two_air_2.fds,2.020, 5.316E-02,16,100,0
-reactionrate_series_reaction.fds,2.448, 2.480E-03,16,2,0
-pvc_combustion.fds,2.537, 1.057E-01,16,200,0
-hrrpuv_reac_simple.fds,175.688, 1.689E+02,100000,318,5
-hrrpuv_reac_extinction.fds,168.347, 1.622E+02,100000,318,5
-hrrpuv_reac_single.fds,164.831, 1.586E+02,100000,314,5
-hrrpuv_reac_parallel.fds,171.828, 1.656E+02,100000,294,5
-hrrpuv_reac_parallel_2.fds,195.921, 1.887E+02,100000,295,6
-hrrpuv_reac_series.fds,399.858, 3.921E+02,100000,465,8
-hrrpuv_reac_soot.fds,12.024, 8.095E+00,400,170,119
-hrrpuv_reac_arrhenius.fds,4.890, 2.524E+00,64,80,492
-ramp_chi_r.fds,37.265, 3.322E+01,4096,1077,7
-bound_test_1.fds,0.760, 1.303E-02,16,10,0
-bound_test_2.fds,0.963, 6.989E-03,16,10,0
-species_props.fds,1.666, 2.926E-01,20,2,0
-condensation_1.fds,0.333, 1.428E-01,125,100,0
-condensation_2.fds,1.480, 1.283E+00,125,1000,10
-condensation_3.fds,3.925, 1.253E+00,20,10,6265
-wall_cond.fds,80.487, 8.000E+01,27,9900,299
-humidity.fds,1.818, 1.473E-02,64,3,0
-mass_flux_wall_yindex.fds,345.943, 3.438E+02,8000,7923,5
-mass_flux_wall_zindex.fds,351.418, 3.494E+02,8000,7923,5
-mass_balance_gas_volume.fds,354.703, 3.526E+02,8000,7923,5
-mass_balance_reac_2.fds,509.103, 5.017E+02,160,400,7839
-activate_sprinklers.fds,45.957, 4.566E+01,2100,1803,12
-adiabatic_surf_temp_spray.fds,194.603, 1.905E+02,8000,4465,5
-bucket_test_2.fds,83.495, 7.683E+01,62500,241,5
-bucket_test_3.fds,49.819, 4.626E+01,8000,1000,5
-bucket_test_4.fds,179.691, 1.795E+02,8000,4950,4
-cannon_ball.fds,2.110, 2.736E-01,9000,5,0
-cascade.fds,177.668, 1.771E+02,14336,938,13
-droplet_distributions.fds,11.221, 1.047E-01,64,1,0
-droplet_distributions_2.fds,188.985, 1.888E+02,64,5500,536
-flow_rate.fds,137.724, 1.371E+02,25600,778,6
-flow_rate_2.fds,175.041, 1.744E+02,25600,851,8
-particle_anisotropic_radi.fds,194.100, 1.917E+02,40,1000,4792
-particle_isotropic_radi.fds,195.149, 1.927E+02,40,1000,4817
-particle_colors.fds,74.701, 7.155E+01,2048,1510,23
-particle_drag_U10_N16.fds,4.501, 4.336E+00,64,8020,8
-particle_drag_U50_N16.fds,10.880, 1.055E+01,64,9900,16
-particle_drag_U100_N16.fds,10.877, 1.061E+01,64,9900,16
-particle_drag_U50_N1600.fds,19.012, 1.870E+01,64,1601,182
-particle_drag_U100_N1600.fds,18.026, 1.729E+01,64,4001,67
-particle_drag_U150_N1600.fds,33.880, 3.375E+01,64,7201,73
-particle_flux.fds,123.616, 1.188E+02,62500,427,4
-particle_heating_convection.fds,56.738, 5.660E+01,1000,9000,6
-particle_heating_radiation.fds,486.156, 486.081,1000,45000,10
-sphere_drag_1.fds,2567.441, 2.565E+03,200,6186,2073
-sphere_drag_2.fds,75.177, 7.227E+01,10000,627,11
-terminal_velocity_dt_1_0.fds,0.328, 1.148E-01,160,20,0
-terminal_velocity_dt_0_1.fds,0.480, 2.579E-01,160,200,0
-terminal_velocity_dt_0_01.fds,1.449, 1.232E+00,160,2000,3
-terminal_velocity_dt_0_001.fds,11.946, 1.167E+01,160,9900,7
-terminal_velocity_dt_0_0001.fds,114.800, 1.146E+02,160,9900,72
-flat_fire.fds,0.932, 6.380E-01,5000,33,0
-fluid_part_mom_x.fds,7.479, 7.245E+00,640,251,45
-fluid_part_mom_y.fds,7.094, 6.594E+00,640,251,41
-fluid_part_mom_z.fds,7.329, 6.586E+00,640,251,40
-water_evaporation_1.fds,16.398, 1.511E+01,1000,1000,15
-water_evaporation_2.fds,366.274, 3.652E+02,64,9900,576
-water_evaporation_3.fds,336.677, 3.354E+02,1000,8000,41
-water_evaporation_4.fds,61.959, 6.101E+01,3000,556,36
-water_evaporation_4_np100.fds,44.862, 4.391E+01,3000,565,25
-water_evaporation_5.fds,53.196, 5.268E+01,64,9900,83
-water_evaporation_6.fds,50.612, 4.972E+01,1000,4001,12
-water_evaporation_6a.fds,86.864, 8.595E+01,1000,4000,21
-water_evaporation_7.fds,2036.251, 2.031E+03,6000,9900,34
-water_evaporation_8.fds,102.138, 1.020E+02,3630,8000,3
-water_fuel_sprays.fds,1856.996, 1.850E+03,25000,8914,8
-screen_drag_1.fds,230.068, 2.291E+02,60,2218,1721
-screen_drag_2.fds,323.315, 3.224E+02,60,5746,935
-porous_media.fds,1255.788, 1.251E+03,72,5000,3475
-water_evap_1_const_gamma.fds,16.163, 1.523E+01,1000,1000,15
-pulsating_FL0_16.fds,5.232, 4.762E+00,256,125,148
-pulsating_FL0_32.fds,9.855, 9.555E+00,1024,234,39
-pulsating_FL0_64.fds,40.744, 4.019E+01,4096,458,21
-pulsating_FL0_128.fds,263.142, 2.582E+02,16384,911,17
-pulsating_FL2_16.fds,4.786, 4.338E+00,256,125,135
-pulsating_FL2_32.fds,9.833, 9.333E+00,1024,234,38
-pulsating_FL2_64.fds,38.715, 3.809E+01,4096,458,20
-pulsating_FL2_128.fds,228.077, 2.231E+02,16384,911,14
-pulsating_FL4_16.fds,4.413, 4.253E+00,256,125,132
-pulsating_FL4_32.fds,10.416, 1.016E+01,1024,234,42
-pulsating_FL4_64.fds,41.046, 3.985E+01,4096,458,21
-pulsating_FL4_128.fds,255.451, 2.508E+02,16384,911,16
-compression_wave_FL0_16.fds,19.306, 1.833E+01,256,539,132
-compression_wave_FL0_32.fds,57.254, 5.625E+01,1024,1887,29
-compression_wave_FL0_64.fds,196.159, 1.950E+02,4096,3773,12
-compression_wave_FL0_128.fds,1092.261, 1.088E+03,16384,7546,8
-compression_wave_FL2_16.fds,33.370, 3.192E+01,256,944,132
-compression_wave_FL2_32.fds,58.964, 5.756E+01,1024,1887,29
-compression_wave_FL2_64.fds,187.075, 1.856E+02,4096,3773,12
-compression_wave_FL2_128.fds,1071.733, 1.067E+03,16384,7546,8
-compression_wave_FL4_16.fds,33.381, 3.194E+01,256,944,132
-compression_wave_FL4_32.fds,58.863, 5.741E+01,1024,1887,29
-compression_wave_FL4_64.fds,193.568, 1.920E+02,4096,3773,12
-compression_wave_FL4_128.fds,1001.604, 9.972E+02,16384,7546,8
-compression_wave_FL5_16.fds,33.337, 3.252E+01,256,944,134
-compression_wave_FL5_32.fds,58.901, 5.807E+01,1024,1887,30
-compression_wave_FL5_64.fds,203.446, 2.024E+02,4096,3773,13
-compression_wave_FL5_128.fds,1020.977, 1.016E+03,16384,7546,8
-move_slug.fds,205.877, 2.035E+02,160,678,1875
-move_slug_fl1.fds,203.476, 2.012E+02,160,678,1854
-shunn3_32.fds,9.341, 7.500E+00,1024,58,126
-shunn3_64.fds,20.876, 1.890E+01,4096,99,46
-shunn3_128.fds,94.789, 9.035E+01,16384,186,29
-shunn3_256.fds,574.966, 5.289E+02,65536,363,22
-shunn3_512.fds,4043.476, 3.313E+03,262144,727,17
-shunn3_256_cfl_1.fds,53.540, 3.929E+00,65536,2,29
-shunn3_256_cfl_p5.fds,58.732, 8.509E+00,65536,4,32
-shunn3_256_cfl_p25.fds,64.780, 1.536E+01,65536,8,29
-shunn3_256_cfl_p125.fds,79.509, 2.892E+01,65536,16,27
-shunn3_256_cfl_p0625.fds,105.038, 5.468E+01,65536,32,26
-saad_512_cfl_1.fds,14.092, 1.293E+01,2048,100,63
-saad_512_cfl_p5.fds,20.084, 1.887E+01,2048,200,46
-saad_512_cfl_p25.fds,39.307, 3.812E+01,2048,400,46
-saad_512_cfl_p125.fds,88.375, 8.696E+01,2048,800,53
-saad_512_cfl_p0625.fds,116.693, 1.153E+02,2048,1600,35
-shunn3_FavreZ_32.fds,55.829, 5.445E+01,1024,545,97
-shunn3_FavreZ_64.fds,156.650, 1.552E+02,4096,976,38
-soborot_godunov_square_wave_16.fds,2.529, 7.903E-01,256,109,0
-soborot_godunov_square_wave_32.fds,2.720, 1.553E+00,1024,220,6
-soborot_godunov_square_wave_64.fds,17.252, 1.594E+01,4096,444,8
-soborot_superbee_square_wave_16.fds,3.156, 1.056E+00,256,55,75
-soborot_superbee_square_wave_32.fds,2.191, 8.829E-01,1024,111,0
-soborot_superbee_square_wave_64.fds,8.777, 7.452E+00,4096,223,8
-soborot_superbee_square_wave_128_1mesh.fds,64.153, 6.041E+01,16384,447,8
-soborot_charm_square_wave_16.fds,1.840, 4.887E-01,256,55,0
-soborot_charm_square_wave_32.fds,2.266, 9.162E-01,1024,111,0
-soborot_charm_square_wave_64.fds,9.325, 8.702E+00,4096,223,9
-soborot_charm_cos_wave_16.fds,0.972, 8.055E-01,256,55,0
-soborot_charm_cos_wave_32.fds,2.594, 1.842E+00,1024,111,16
-soborot_charm_cos_wave_64.fds,9.618, 7.920E+00,4096,223,8
-soborot_superbee_cos_wave_16.fds,2.060, 1.437E+00,256,55,102
-soborot_superbee_cos_wave_32.fds,2.042, 1.529E+00,1024,111,13
-soborot_superbee_cos_wave_64.fds,8.350, 7.671E+00,4096,223,8
-soborot_mp5_cos_wave_16.fds,1.739, 1.095E+00,256,55,77
-soborot_mp5_cos_wave_32.fds,2.328, 1.645E+00,1024,111,14
-soborot_mp5_cos_wave_64.fds,9.182, 8.459E+00,4096,223,9
-race_test_1.fds,343.214, 3.384E+02,84,954,4222
-race_test_4.fds,271.358, 2.667E+02,84,954,3328
-openmp_test64a.fds,1275.035, 1.262E+03,262144,1356,3
-openmp_test64b.fds,750.546, 7.415E+02,262144,1356,2
-openmp_test64c.fds,608.093, 6.004E+02,262144,1356,1
-openmp_test64d.fds,496.959, 4.894E+02,262144,1356,1
-openmp_test64e.fds,451.337, 4.438E+02,262144,1356,1
-openmp_test64f.fds,528.352, 5.199E+02,262144,1356,1
-openmp_test64g.fds,369.199, 3.634E+02,262144,1356,1
-openmp_test64h.fds,408.615, 4.019E+02,262144,1356,1
-openmp_test128a.fds,628.728, 5.169E+02,2097152,81,3
-openmp_test128b.fds,365.030, 3.094E+02,2097152,81,1
-openmp_test128c.fds,336.450, 2.821E+02,2097152,81,1
-openmp_test128d.fds,325.136, 2.708E+02,2097152,81,1
-openmp_test128e.fds,231.150, 1.883E+02,2097152,81,1
-openmp_test128f.fds,267.123, 2.207E+02,2097152,81,1
-openmp_test128g.fds,215.831, 1.726E+02,2097152,81,1
-openmp_test128h.fds,248.776, 1.985E+02,2097152,81,1
-csmag0_32.fds,11.236, 1.027E+01,32768,46,6
-csmag_32.fds,6.867, 5.898E+00,32768,28,6
-csmag_64.fds,56.540, 5.209E+01,262144,58,3
-dsmag_32.fds,10.550, 9.484E+00,32768,32,9
-dsmag_64.fds,75.700, 7.119E+01,262144,63,4
-mu0_32.fds,141.999, 1.410E+02,32768,670,6
-deardorff_32.fds,8.003, 7.077E+00,32768,31,6
-deardorff_64.fds,62.501, 5.780E+01,262144,63,3
-vreman_32.fds,7.545, 6.762E+00,32768,32,6
-vreman_64.fds,66.983, 6.222E+01,262144,65,3
-wale_32.fds,11.310, 1.039E+01,32768,47,6
-wale_64.fds,92.370, 8.741E+01,262144,95,3
-yplus_8.fds,55.451, 5.519E+01,64,3393,254
-yplus_16.fds,65.964, 6.566E+01,128,9900,51
-yplus_32.fds,141.290, 1.410E+02,256,9900,55
-sem_flat_leddy_p2.fds,423.442, 4.228E+02,35937,3198,3
-sem_par_leddy_p2.fds,251.667, 2.510E+02,35937,2790,2
-sem_atm_leddy_p2.fds,545.879, 5.430E+02,35937,3770,4
-sem_ramp_leddy_p2.fds,270.429, 2.699E+02,35937,2650,2
-sem_open_wind.fds,1089.521, 1.088E+03,99840,3026,3
-ramp_prof_u_z.fds,2051.172, 2.049E+03,24000,9900,8
-Bova_1a.fds,13.412, 1.162E+01,40000,465,0
-Bova_1b.fds,18.853, 1.705E+01,40000,697,0
-Bova_4a.fds,23.046, 2.132E+01,40000,929,0
-bulk_density_file.fds,5.857, 9.531E-01,75000,1,0
-char_oxidation_1.fds,111.511, 1.068E+02,4500,2501,9
-dragon_5a.fds,1340.326, 1.337E+03,12000,9900,11
-hot_rods.fds,357.493, 3.544E+02,1000,9900,35
-level_set_fuel_model_1.fds,325.027, 3.212E+02,25600,2463,5
-LS_ellipse_0ms_00deg.fds,4.923, 4.254E+00,12500,392,0
-LS_ellipse_5ms_00deg.fds,17.362, 1.670E+01,12500,3125,0
-LS_ellipse_0ms_30deg.fds,12.287, 8.603E+00,12500,575,1
-LS_ellipse_5ms_30deg.fds,21.355, 1.756E+01,12500,1451,0
-LS4_ember_ignition.fds,66.201, 6.245E+01,20,1024,3049
-LS4_ember_yield.fds,122.871, 1.227E+02,8000,2131,7
-part_drag_prof_ux.fds,2.084, 4.047E-02,500,1,0
-part_drag_prof_uy.fds,4.014, 1.912E+00,500,50,76
-part_drag_prof_uz.fds,4.108, 2.042E+00,500,50,81
-part_drag_prof_vx.fds,4.540, 2.219E+00,500,50,88
-part_drag_prof_vy.fds,2.366, 5.003E-02,500,1,0
-part_drag_prof_vz.fds,4.553, 2.224E+00,500,50,88
-part_drag_prof_wx.fds,4.729, 2.319E+00,500,50,92
-part_drag_prof_wy.fds,4.722, 2.318E+00,500,50,92
-part_drag_prof_wz.fds,2.450, 4.535E-02,500,1,0
-part_drag_stretched.fds,20.047, 1.764E+01,8000,222,9
-pine_needles.fds,23.937, 2.191E+01,1000,1000,21
-radiation_gas-veg_consistency_gas.fds,15.878, 1.533E+01,5760,389,6
-radiation_gas-veg_consistency_veg.fds,25.994, 2.532E+01,5760,389,11
-random_walk_1.fds,80.561, 8.005E+01,2000,119,336
-random_walk_2.fds,74.775, 7.428E+01,2000,119,312
-tree_shapes.fds,16.562, 2.764E+00,384000,3,2
-vegetation_drag_1.fds,55.455, 5.326E+01,120,283,1568
-vegetation_drag_2.fds,89.811, 8.747E+01,120,443,1645
-e38cc48af
-120935.076
+aerosol_agglomeration.fds,63.231,6.31E+01,1000,9900,6
+aerosol_agglomeration_2.fds,170.565,1.70E+02,1000,9900,17
+aerosol_gravitational_deposition.fds,6.911,6.83E+00,1000,1000,6
+aerosol_gravitational_deposition_2.fds,7.034,6.95E+00,1000,1000,6
+aerosol_thermophoretic_deposition.fds,9.637,9.55E+00,1000,2000,4
+aerosol_thermophoretic_deposition_2.fds,9.514,9.46E+00,1000,2000,4
+aerosol_turbulent_deposition.fds,99.81,9.97E+01,30,9900,335
+aerosol_scrubbing.fds,275.255,2.72E+02,64,9900,428
+propane_flame_deposition.fds,83.856,8.02E+01,2000,1000,40
+propane_flame_deposition_gravitational.fds,83.648,8.00E+01,2000,1000,40
+propane_flame_deposition_none.fds,73.601,7.00E+01,2000,1000,35
+propane_flame_deposition_thermophoretic.fds,83.744,8.01E+01,2000,1000,40
+propane_flame_deposition_turbulent.fds,83.951,8.03E+01,2000,1000,40
+soot_oxidation_wall.fds,24.448,2.26E+01,1000,1500,15
+lee_waves.fds,627.496,6.22E+02,10000,5941,10
+stack_effect.fds,255.697,2.46E+02,30000,627,13
+lapse_rate.fds,4.592,1.64E+00,40,4,10268
+MO_velocity_profile_stable.fds,215.234,2.10E+02,320000,286,2
+MO_velocity_profile_unstable.fds,97.063,9.15E+01,320000,126,2
+geom_channel.fds,7.462,5.77E+00,108,89,600
+geom_channel2.fds,3.151,1.14E+00,22,10,5181
+geom_channel_tmp.fds,15.416,1.34E+01,24,93,5994
+geom_channel_tmp2.fds,147.592,1.46E+02,22,9900,669
+geom_extruded_poly.fds,89.583,8.47E+01,46656,260,6
+geom_hrrpuv_init.fds,20.583,1.81E+01,8000,314,7
+geom_intersection.fds,0.717,7.67E-02,1000,4,0
+geom_obst.fds,45.404,4.18E+01,3375,235,52
+geom_part_init.fds,45.991,4.18E+01,8000,264,19
+geom_terrain2.fds,21.919,9.25E+00,64000,18,8
+geom_texture3a.fds,0.697,1.38E-01,1000,5,0
+geom_texture3b.fds,0.652,8.49E-02,1000,5,0
+geom_texture4a.fds,1.007,2.69E-01,1000,5,0
+geom_texture4b.fds,0.621,9.31E-02,1000,5,0
+sphere_helium_1mesh.fds,38.428,1.75E+01,262144,10,6
+sphere_radiate.fds,55.991,1.60E+01,262144,1,60
+sphere_leak.fds,674.797,6.66E+02,32768,1121,18
+saad_CC_explicit_512_cfl_p25.fds,45.889,4.53E+01,2048,400,55
+saad_CC_explicit_512_cfl_p125.fds,87.673,8.63E+01,2048,800,52
+saad_CC_explicit_512_cfl_p0625.fds,126.91,1.26E+02,2048,1600,38
+shunn3_32_cc_exp_chm.fds,16.367,1.50E+01,1024,105,139
+shunn3_64_cc_exp_chm.fds,46.436,4.50E+01,4096,188,58
+shunn3_128_cc_exp_chm.fds,221.915,2.17E+02,16384,358,36
+shunn3_256_cc_exp_chm.fds,1625.652,1.58E+03,65536,700,34
+shunn3_320_cc_exp_chm.fds,2398.304,2.29E+03,102400,872,25
+shunn3_32_cc_exp_gdv.fds,16.238,1.48E+01,1024,106,136
+shunn3_64_cc_exp_gdv.fds,41.626,4.02E+01,4096,190,51
+shunn3_128_cc_exp_gdv.fds,154.131,1.51E+02,16384,359,25
+shunn3_256_cc_exp_gdv.fds,1184.74,1.14E+03,65536,701,24
+shunn3_320_cc_exp_gdv.fds,1684.579,1.59E+03,102400,873,17
+geom_poiseuille_N10a_theta0_stm.fds,11.626,9.55E+00,48,923,215
+geom_poiseuille_N20a_theta0_stm.fds,16.488,1.47E+01,96,3663,41
+geom_poiseuille_N40a_theta0_stm.fds,50.648,4.88E+01,192,9900,25
+geom_poiseuille_N80a_theta0_stm.fds,324.435,3.22E+02,384,9900,84
+geom_poiseuille_N10na_theta0_stm.fds,75.815,7.40E+01,48,9900,155
+geom_poiseuille_N20na_theta0_stm.fds,119.567,1.18E+02,96,9900,123
+geom_poiseuille_N40na_theta0_stm.fds,252.63,2.51E+02,192,9900,131
+geom_poiseuille_N80na_theta0_stm.fds,2939.749,2.94E+03,384,9900,772
+geom_poiseuille_N10nah_theta0_stm.fds,17.448,1.55E+01,48,6174,52
+geom_poiseuille_N20nah_theta0_stm.fds,49.015,4.70E+01,96,9900,49
+geom_poiseuille_N40nah_theta0_stm.fds,281.469,2.81E+02,192,9900,147
+geom_poiseuille_N80nah_theta0_stm.fds,2067.809,2.07E+03,384,9900,543
+geom_bad_non_manifold_vert.fds,0.381,4.80E-02,1000,4,0
+geom_self_intersection.fds,1.533,6.20E-01,8000,7,0
+rotated_cube_0deg_32_stm.fds,7.463,6.62E+00,1024,80,80
+rotated_cube_0deg_32_obs.fds,6.573,5.95E+00,1024,80,72
+rotated_cube_0deg_64_stm.fds,29.376,2.73E+01,4096,160,41
+rotated_cube_0deg_64_obs.fds,23.312,2.25E+01,4096,160,34
+rotated_cube_0deg_128_stm.fds,146.116,1.32E+02,16384,320,25
+rotated_cube_0deg_128_obs.fds,106.11,1.02E+02,16384,320,19
+rotated_cube_0deg_256_stm.fds,987.108,8.29E+02,65536,640,19
+rotated_cube_0deg_256_obs.fds,700.269,6.51E+02,65536,640,15
+rotated_cube_0deg_320_stm.fds,1376.512,1.27E+03,102400,800,15
+rotated_cube_0deg_320_obs.fds,1111.672,1.01E+03,102400,800,12
+rotated_cube_27deg_32_stm.fds,5.295,4.57E+00,1024,54,82
+rotated_cube_27deg_64_stm.fds,17.93,1.70E+01,4096,107,38
+rotated_cube_27deg_128_stm.fds,80.337,7.59E+01,16384,214,21
+rotated_cube_27deg_256_stm.fds,548.455,4.96E+02,65536,428,17
+rotated_cube_27deg_320_stm.fds,827.281,7.23E+02,102400,535,13
+rotated_cube_45deg_32_stm.fds,5.775,5.20E+00,1024,68,74
+rotated_cube_45deg_64_stm.fds,23.471,2.21E+01,4096,135,39
+rotated_cube_45deg_128_stm.fds,105.109,9.82E+01,16384,269,22
+rotated_cube_45deg_256_stm.fds,741.829,6.68E+02,65536,538,18
+rotated_cube_45deg_320_stm.fds,976.923,8.73E+02,102400,673,12
+cone_1mesh.fds,4.21,4.06E-01,300,3,0
+geom_mass_file_test.fds,40.088,4.77E+00,64000,3,24
+activate_vents.fds,12.763,1.07E+01,2100,400,12
+control_test_2.fds,9.149,6.91E+00,8800,100,7
+create_remove.fds,34.475,3.25E+01,40,700,1161
+cycle_test.fds,8.813,6.58E+00,40,126,1305
+device_test.fds,396.109,3.91E+02,60,2644,2461
+hrr_freeze.fds,101.574,9.79E+01,8000,1517,8
+rms_cov_corr.fds,156.702,1.57E+02,1000,9900,15
+rms_example.fds,2.422,8.48E-01,27,2000,0
+special_time_ramps.fds,0.271,1.39E-01,64,251,0
+aspiration_detector.fds,15.123,1.47E+01,1000,1153,12
+smoke_detector.fds,28.925,2.64E+01,125,314,673
+energy_budget_adiabatic_walls.fds,1863.16,1.86E+03,32000,9900,5
+energy_budget_adiabatic_two_fuels.fds,405.137,4.05E+02,4000,9900,10
+energy_budget_cold_walls.fds,1831.569,1.83E+03,32000,9900,5
+energy_budget_combustion.fds,159.307,1.56E+02,8000,999,19
+energy_budget_dns_100.fds,1606.867,1.61E+03,2500,9900,64
+energy_budget_particles.fds,114.125,1.12E+02,1000,9000,12
+energy_budget_solid.fds,254.446,2.54E+02,1000,9900,25
+energy_budget_tmix.fds,79.018,7.87E+01,121,2000,325
+test_hrr_2d_cyl.fds,41.925,3.88E+01,800,1053,46
+test_hrr_3d.fds,291.068,2.85E+02,64000,817,5
+extinction_1.fds,69.168,5.85E+01,,0,0
+extinction_2.fds,68.195,5.89E+01,,0,0
+box_burn_away2.fds,82.318,8.03E+01,1000,3000,26
+box_burn_away3.fds,45.404,4.21E+01,1000,608,69
+box_burn_away4.fds,48.315,4.57E+01,1000,600,76
+box_burn_away5.fds,130.787,1.25E+02,1000,3000,41
+box_burn_away6.fds,133.683,1.28E+02,1000,3000,42
+box_burn_away7.fds,104.745,9.94E+01,1000,2000,49
+box_burn_away8.fds,72.287,6.69E+01,1000,600,111
+box_burn_away_2D.fds,54.101,5.08E+01,100,3000,169
+box_burn_away_2D_residue.fds,66.505,6.29E+01,100,3000,209
+fire_const_gamma.fds,167.959,1.67E+02,8192,3000,6
+spray_burner.fds,2163.567,2.16E+03,24000,9647,9
+HoC_Ideal.fds,8.782,5.71E+00,1000,147,38
+HoC_NonIdeal.fds,9.123,6.05E+00,1000,152,39
+simple_test.fds,776.934,7.72E+02,20736,5914,6
+tmp_lower_limit_simple.fds,21.972,2.10E+01,2000,180,58
+tmp_lower_limit_default.fds,99.77,9.51E+01,8000,436,27
+tmp_lower_limit_dt_p001.fds,211.201,2.07E+02,8000,1000,25
+tunnel_const_gamma.fds,90.629,8.96E+01,400,1077,208
+tunnel_linear_cp.fds,91.553,9.06E+01,400,1074,210
+divergence_test_1.fds,46.027,4.35E+01,8000,379,14
+divergence_test_2.fds,17.231,1.47E+01,81,57,3177
+cyl_test_1.fds,33.546,3.16E+01,2400,630,20
+cyl_test_2.fds,36.787,3.48E+01,2400,630,23
+cyl_test_3.fds,1593.68,1.59E+03,5000,9900,32
+cyl_test_4.fds,1499.426,1.50E+03,5000,9900,30
+gas_filling.fds,365.34,3.63E+02,15360,4381,5
+helium_1d_isothermal.fds,16.762,1.62E+01,8192,150,13
+helium_1d_const_gamma.fds,16.565,1.62E+01,8192,150,13
+helium_2d_isothermal.fds,1252.154,1.25E+03,10368,9900,12
+helium_air_jet_floor.fds,46.208,3.95E+01,108000,71,5
+hole.fds,67.77,6.29E+01,8000,468,16
+no_hole.fds,66.036,6.13E+01,8000,468,16
+jet_fan.fds,92.823,8.73E+01,20000,420,10
+symmetry_test.fds,17.46,1.67E+01,1000,50,333
+symmetry_test_2.fds,193.666,1.92E+02,49152,665,5
+tangential_velocity.fds,193.412,1.90E+02,25000,1044,7
+velocity_bc_test.fds,1881.983,1.88E+03,375,2959,1693
+blasius_16.fds,48.111,4.77E+01,384,3569,34
+blasius_32.fds,128.7,1.28E+02,1536,7170,11
+blasius_64.fds,1236.004,1.23E+03,6144,9900,20
+mwtest_cfl.fds,84.883,8.29E+01,120,3054,226
+mass_heat_wall_device_test.fds,582.242,5.77E+02,256000,614,3
+mass_heat_wall_device_test_2.fds,640.139,6.34E+02,256000,690,3
+particle_offgas_1.fds,21.346,1.80E+01,8000,126,17
+particle_offgas_2.fds,26.033,2.24E+01,8000,126,22
+particle_offgas_3.fds,78.255,7.56E+01,8000,481,19
+particle_offgas_4.fds,156.713,1.54E+02,8000,1920,10
+species_conservation_1.fds,57.421,5.40E+01,8000,559,12
+species_conservation_2.fds,39.427,3.65E+01,2000,187,97
+species_conservation_3.fds,81.343,7.96E+01,1000,9900,8
+species_conservation_4.fds,31.345,3.02E+01,1000,2117,14
+hot_layer_360.fds,656.42,6.56E+02,1800,9900,36
+realizable_mass_fractions.fds,164.864,1.61E+02,12000,1137,11
+adiabatic_con_flux.fds,11.739,1.14E+01,1000,497,22
+adiabatic_net_flux.fds,14.691,1.29E+01,1000,321,40
+convective_cooling.fds,9.928,8.25E+00,27,3617,84
+convective_cooling_p1.fds,0.209,2.17E-02,27,180,0
+convective_cooling_p05.fds,0.564,8.61E-02,27,720,0
+convective_cooling_p025.fds,0.717,2.76E-01,27,2880,0
+convective_cooling_p01.fds,2.071,1.81E+00,27,9900,6
+convective_cooling_p005.fds,5.363,4.92E+00,27,9900,18
+convective_cooling_p0025.fds,31.989,3.15E+01,27,9900,117
+convective_cooling_p00125.fds,159.988,1.60E+02,27,9900,597
+heat_conduction_a.fds,16.748,1.64E+01,27,4000,151
+heat_conduction_b.fds,22.739,2.23E+01,27,9900,83
+heat_conduction_c.fds,30.173,2.97E+01,27,9900,111
+heat_conduction_d.fds,29.925,2.95E+01,27,9900,110
+heat_conduction_kc.fds,8.424,8.15E+00,36,9900,22
+insulated_steel_column.fds,420.323,4.18E+02,2000,9900,21
+insulated_steel_pipe.fds,17.536,1.73E+01,27,9900,64
+insulated_steel_pipe_2d.fds,35.956,3.55E+01,105,9900,34
+insulated_steel_plate.fds,17.668,1.72E+01,27,9900,64
+ht1d_pile.fds,214.117,2.14E+02,2000,9900,10
+ht3d_pile.fds,289.21,2.89E+02,2000,9900,14
+ht3d_beam_heating_1.fds,91.067,9.05E+01,800,9900,11
+ht3d_beam_heating_2.fds,85.553,8.50E+01,800,9900,10
+ht3d_energy_conservation.fds,213.399,2.08E+02,62500,1000,3
+ht3d_energy_conservation_2.fds,223.99,2.16E+02,62500,1000,3
+ht3d_energy_conservation_3.fds,222.413,2.16E+02,62500,1000,3
+ht3d_ibeam.fds,385.256,3.56E+02,85184,7200,0
+ht3d_mass_conservation.fds,96.318,9.43E+01,8000,2359,4
+ht3d_mass_conservation_2.fds,96.184,9.41E+01,8000,2344,5
+ht3d_slab.fds,7.886,7.41E+00,27,1440,190
+ht3d_sphere_24.fds,4.945,2.32E+00,13824,90,1
+thermocouple_time_constant.fds,112.716,1.11E+02,6750,5546,2
+ashrae7_fixed_flow.fds,2.421,2.23E+00,8000,119,2
+ashrae7_quadratic.fds,2.711,2.37E+00,8000,119,2
+ashrae7_table.fds,2.681,2.35E+00,8000,119,2
+door_crack.fds,1102.236,1.10E+03,8000,9900,13
+fan_test.fds,13.325,1.24E+01,40,293,1059
+qfan_test.fds,5.885,4.57E+00,40,98,1166
+qfan_multi.fds,19.638,1.86E+01,80,224,1036
+HVAC_aircoil.fds,2.38,1.41E+00,1000,88,16
+HVAC_damper.fds,20.663,1.96E+01,8000,289,8
+HVAC_energy_pressure.fds,5.695,4.63E+00,1100,703,5
+HVAC_filter.fds,127.912,1.28E+02,1000,9900,12
+HVAC_flow_loss.fds,31.016,3.08E+01,8000,1781,2
+HVAC_mass_conservation.fds,19.466,1.92E+01,8000,551,4
+HVAC_mass_transport.fds,18.362,1.81E+01,8400,485,4
+HVAC_mass_transport_1.fds,15.832,1.56E+01,8400,485,3
+HVAC_mass_transport_2.fds,16.271,1.60E+01,8400,485,3
+HVAC_mass_transport_3.fds,17.973,1.74E+01,8400,485,4
+HVAC_mass_transport_4.fds,17.988,1.75E+01,8400,485,4
+HVAC_mass_transport_branch.fds,18.262,1.78E+01,8400,483,4
+HVAC_mass_transport_combine.fds,10.53,9.98E+00,8400,121,9
+HVAC_mass_transport_conservation_1.fds,229.284,2.29E+02,8400,5538,4
+HVAC_mass_transport_conservation_2.fds,109.611,1.09E+02,8400,2768,4
+HVAC_mass_transport_conservation_3.fds,104.266,1.04E+02,8400,2768,4
+HVAC_mass_transport_conv_0020.fds,3.181,2.57E+00,8400,80,3
+HVAC_mass_transport_conv_0040.fds,5.438,4.90E+00,8400,160,3
+HVAC_mass_transport_conv_0080.fds,10.629,1.00E+01,8400,320,3
+HVAC_mass_transport_conv_0160.fds,20.111,1.95E+01,8400,640,3
+HVAC_mass_transport_conv_0320.fds,38.776,3.82E+01,8400,1280,3
+HVAC_mass_transport_energy.fds,7.543,7.23E+00,1100,1430,4
+HVAC_tee_loss_1.fds,6.162,5.75E+00,8000,189,3
+HVAC_tee_loss_2.fds,5.53,5.12E+00,8000,166,3
+leak_test.fds,3.187,2.85E+00,2000,336,4
+leak_test_2.fds,25.758,2.51E+01,2000,334,37
+leak_enthalpy.fds,27.18,2.66E+01,200,500,265
+leak_test_4.fds,431.948,4.17E+02,64000,376,17
+HVAC_leak_exponent.fds,29.966,2.97E+01,60,397,1245
+layer_1mesh.fds,181.216,1.78E+02,8000,2553,8
+obst_sphere_mass_flux.fds,75.46,3.96E+00,125000,4,7
+obst_cylinder_mass_flux.fds,76.559,4.97E+01,125000,88,4
+obst_cone_mass_flux.fds,47.388,3.21E+01,125000,57,4
+obst_box_mass_flux.fds,64.576,4.15E+01,125000,63,5
+part_orientation_ramp.fds,27.624,2.68E+01,8000,100,33
+devc_interpolation_velocity.fds,73.899,7.35E+01,25,9900,296
+devc_interpolation_temperature.fds,78.831,7.84E+01,25,9900,316
+init_overlap.fds,2.489,3.21E-01,1000,19,0
+ramp_time.fds,1.635,3.57E-02,1000,6,0
+ns2d_16.fds,18.921,1.79E+01,256,295,237
+ns2d_16_nupt1.fds,15.346,1.36E+01,256,227,234
+ns2d_32.fds,41.975,4.02E+01,1024,568,69
+ns2d_32_nupt1.fds,32.24,3.05E+01,1024,440,67
+ns2d_64.fds,121.838,1.20E+02,4096,1111,26
+ns2d_64_nupt1.fds,101.559,9.96E+01,4096,946,25
+ns2d_8.fds,11.694,9.77E+00,64,156,978
+ns2d_8_nupt1.fds,8.486,6.57E+00,64,120,855
+vort2d_40.fds,32.2,3.05E+01,1600,360,52
+vort2d_80.fds,93.215,9.14E+01,6400,720,19
+vort2d_160.fds,448.218,4.40E+02,25600,1440,11
+vort2d_320.fds,1744.497,1.64E+03,102400,1944,8
+isentropic.fds,447.443,4.46E+02,40,6000,1857
+isentropic2.fds,449.527,4.49E+02,40,6000,1869
+pressure_boundary.fds,1983.677,1.98E+03,80000,4729,5
+pressure_rise.fds,258.944,2.57E+02,60,7516,568
+zone_break_fast.fds,116.908,1.14E+02,30000,600,6
+zone_break_slow.fds,120.482,1.17E+02,30000,600,6
+zone_break_fast_ulmat.fds,155.671,1.51E+02,30000,600,8
+zone_break_slow_ulmat.fds,155.087,1.51E+02,30000,600,8
+obst_coarse_fine_interface.fds,3.127,1.49E+00,12,43,2891
+dancing_eddies_1mesh.fds,668.286,6.66E+02,12000,4737,11
+opening_ulmat.fds,7.142,5.59E+00,512,57,191
+cable_11_insulation_mcc.fds,4.944,4.70E+00,12,9900,39
+cable_23_insulation_mcc.fds,5.457,5.29E+00,12,9900,44
+cable_701_insulation_mcc.fds,5.451,5.29E+00,12,9900,44
+cable_11_jacket_mcc.fds,5.156,4.96E+00,12,9900,41
+cable_23_jacket_mcc.fds,5.121,4.93E+00,12,9900,41
+cable_701_jacket_mcc.fds,5.118,4.92E+00,12,9900,41
+cell_burn_away.fds,42.929,4.00E+01,125,9900,32
+birch_tga_1step_2.fds,2.723,2.08E+00,12,9900,17
+birch_tga_1step_20.fds,1.349,2.18E-01,12,2400,0
+enthalpy.fds,19.832,1.82E+01,36,1400,361
+ice_cube.fds,19.264,1.55E+01,1000,1001,15
+liquid_mixture.fds,40.066,3.88E+01,1000,1811,21
+part_baking_soda_420K.fds,14.367,1.37E+01,125,9900,11
+part_baking_soda_450K.fds,13.511,1.31E+01,125,9900,10
+part_baking_soda_500K.fds,14.376,1.39E+01,125,9900,11
+pyrolysis_1.fds,2.472,2.38E+00,12,9900,20
+pyrolysis_2.fds,2.48,2.39E+00,12,9900,20
+specified_hrr.fds,18.578,1.56E+01,36,323,1342
+shrink_swell.fds,1.374,1.12E-01,18,150,0
+spyro_cone_demo.fds,1.528,1.32E+00,16,9900,8
+spyro_cone_demo_2.fds,0.622,5.10E-01,16,6000,0
+spyro_cone_demo_3.fds,0.378,1.46E-01,9,2000,0
+surf_mass_vent_liquid_fuel.fds,74.814,7.18E+01,216,9900,33
+surf_mass_vent_liquid_fuel_nonconforming.fds,63.094,6.01E+01,125,9900,48
+surf_mass_part_char_cart_fuel.fds,85.456,8.22E+01,216,9900,38
+surf_mass_part_char_cart_gas.fds,49.621,4.77E+01,216,9900,22
+surf_mass_part_char_cyl_fuel.fds,62.144,5.87E+01,216,9900,27
+surf_mass_part_char_cyl_gas.fds,62.109,5.87E+01,216,9900,27
+surf_mass_part_char_spher_fuel.fds,61.813,5.84E+01,216,9900,27
+surf_mass_part_char_spher_gas.fds,67.105,6.34E+01,216,9900,29
+surf_mass_part_nonchar_cart_fuel.fds,64.967,6.12E+01,216,9900,28
+surf_mass_part_nonchar_cart_gas.fds,33.249,3.14E+01,216,9900,14
+surf_mass_part_nonchar_cyl_fuel.fds,65.119,6.13E+01,216,9900,28
+surf_mass_part_nonchar_cyl_gas.fds,31.016,2.92E+01,216,9900,13
+surf_mass_part_nonchar_spher_fuel.fds,60.7,5.75E+01,216,9900,26
+surf_mass_part_nonchar_spher_gas.fds,30.042,2.81E+01,216,9900,13
+surf_mass_vent_char_cart_fuel.fds,76.606,7.33E+01,216,9900,34
+surf_mass_vent_char_cart_gas.fds,33.709,3.18E+01,216,9900,14
+surf_mass_vent_char_cyl_fuel.fds,54.424,5.11E+01,216,9900,23
+surf_mass_vent_char_cyl_gas.fds,17.706,1.58E+01,216,9900,7
+surf_mass_vent_char_spher_fuel.fds,54.401,5.10E+01,216,9900,23
+surf_mass_vent_char_spher_gas.fds,18.173,1.64E+01,216,9900,7
+surf_mass_vent_nonchar_cart_fuel.fds,74.998,7.18E+01,216,9900,33
+surf_mass_vent_nonchar_cart_gas.fds,34.981,3.31E+01,216,9900,15
+surf_mass_vent_nonchar_cyl_fuel.fds,66.187,6.30E+01,216,9900,29
+surf_mass_vent_nonchar_cyl_gas.fds,26.293,2.44E+01,216,9900,11
+surf_mass_vent_nonchar_spher_fuel.fds,53.948,5.07E+01,216,9900,23
+surf_mass_vent_nonchar_spher_gas.fds,17.889,1.60E+01,216,9900,7
+surf_mass_part_specified.fds,15.981,1.44E+01,216,2000,33
+surf_mass_two_species_cart.fds,95.521,9.23E+01,64,9900,145
+surf_mass_two_species_cyl.fds,94.693,9.15E+01,64,9900,144
+surf_mass_two_species_spher.fds,94.365,9.12E+01,64,9900,143
+tga_sample.fds,2.667,2.54E+00,12,9900,21
+two_step_solid_reaction.fds,1.722,1.38E+00,36,5000,7
+water_pool.fds,276.544,2.75E+02,5000,9000,6
+matl_e_cons_1.fds,0.616,2.98E-02,64,10,0
+matl_e_cons_2.fds,0.63,9.88E-03,64,10,0
+matl_e_cons_3.fds,0.7,1.04E-02,64,10,0
+matl_e_cons_4.fds,0.608,1.72E-02,64,10,0
+matl_e_cons_5.fds,0.67,9.54E-03,64,10,0
+matl_e_cons_6.fds,0.666,1.45E-02,64,10,0
+matl_e_cons_7.fds,0.656,4.03E-02,64,10,0
+matl_e_cons_8.fds,0.649,4.69E-02,64,10,0
+matl_e_cons_9.fds,0.363,8.77E-02,64,10,0
+adiabatic_surface_temperature.fds,146.922,1.45E+02,8000,4056,4
+droplet_absorption_cart.fds,5.44,2.44E+00,27,1000,90
+droplet_absorption_cyl.fds,4.402,1.37E+00,9,1000,152
+emissivity.fds,53.142,5.11E+01,36,1000,1418
+hot_spheres.fds,43.874,3.70E+01,40,126,7349
+part_attenuation.fds,30.653,9.00E+00,50,13,13838
+plate_view_factor_2D_30.fds,1.674,1.45E-01,200,100,0
+plate_view_factor_2D_60.fds,1.655,1.31E-01,200,100,0
+plate_view_factor_2D_100.fds,2.873,1.28E+00,200,100,64
+plate_view_factor_cart_30.fds,1.741,1.42E-01,4000,10,0
+plate_view_factor_cart_60.fds,1.852,1.59E-01,4000,10,0
+plate_view_factor_cart_100.fds,1.896,1.71E-01,4000,10,0
+plate_view_factor_cyl_30.fds,2.411,7.81E-01,100,1000,0
+plate_view_factor_cyl_60.fds,2.44,8.28E-01,100,1000,0
+plate_view_factor_cyl_100.fds,2.506,8.53E-01,100,1000,0
+plate_view_factor_ibm_30.fds,368.19,7.92E+01,1000000,10,7
+plate_view_factor_ibm_60.fds,429.765,8.85E+01,1000000,10,8
+plate_view_factor_ibm_100.fds,352.488,7.85E+01,1000000,10,7
+radiating_polygon_square_20.fds,1.871,1.24E-01,11520,1,0
+radiating_polygon_square_40.fds,6.784,4.30E+00,92160,1,46
+radiating_polygon_square_80.fds,123.034,1.08E+02,737280,1,146
+radiation_box_100_1000.fds,106.269,8.81E+01,1000000,1,88
+radiation_box_100__100.fds,58.349,1.21E+01,1000000,1,12
+radiation_box_100_2000.fds,202.231,1.80E+02,1000000,1,179
+radiation_box_100__300.fds,117.281,2.79E+01,1000000,1,27
+radiation_box_100___50.fds,29.6,5.27E+00,1000000,1,5
+radiation_box__20_1000.fds,3.361,4.55E-01,8000,1,0
+radiation_box__20__100.fds,1.886,8.49E-02,8000,1,0
+radiation_box__20_2000.fds,5.148,8.89E-01,8000,1,0
+radiation_box__20__300.fds,2.735,1.65E-01,8000,1,0
+radiation_box__20___50.fds,2.424,5.64E-02,8000,1,0
+radiation_plane_layer_1_1.fds,2.368,6.33E-02,8000,1,0
+radiation_plane_layer_1_2.fds,5.966,2.66E-01,8000,1,0
+radiation_plane_layer_1_3.fds,2.316,2.44E-02,400,1,0
+radiation_plane_layer_1_4.fds,5.231,2.04E-02,400,1,0
+radiation_plane_layer_1_5.fds,5.357,9.28E-01,60000,1,0
+radiation_plane_layer_2_1.fds,2.337,6.68E-02,8000,1,0
+radiation_plane_layer_2_2.fds,6.304,2.88E-01,8000,1,0
+radiation_plane_layer_2_3.fds,2.258,2.92E-02,400,1,0
+radiation_plane_layer_2_4.fds,5.254,2.04E-02,400,1,0
+radiation_plane_layer_2_5.fds,5.394,9.60E-01,60000,1,0
+radiation_plane_layer_3_1.fds,1.77,7.30E-02,8000,1,0
+radiation_plane_layer_3_2.fds,6.01,3.01E-01,8000,1,0
+radiation_plane_layer_3_3.fds,1.54,7.01E-03,400,1,0
+radiation_plane_layer_3_4.fds,4.973,1.95E-02,400,1,0
+radiation_plane_layer_3_5.fds,4.862,7.99E-01,60000,1,0
+radiation_plane_layer_4_1.fds,1.774,6.79E-02,8000,1,0
+radiation_plane_layer_4_2.fds,5.898,2.65E-01,8000,1,0
+radiation_plane_layer_4_3.fds,1.624,6.56E-03,400,1,0
+radiation_plane_layer_4_4.fds,4.974,1.94E-02,400,1,0
+radiation_plane_layer_4_5.fds,5.187,9.02E-01,60000,1,0
+radiation_plane_layer_5_1.fds,1.889,6.82E-02,8000,1,0
+radiation_plane_layer_5_2.fds,6.045,2.84E-01,8000,1,0
+radiation_plane_layer_5_3.fds,1.657,7.19E-03,400,1,0
+radiation_plane_layer_5_4.fds,4.911,2.03E-02,400,1,0
+radiation_plane_layer_5_5.fds,5.295,9.34E-01,60000,1,0
+radiation_plane_layer_6_1.fds,1.792,7.14E-02,8000,1,0
+radiation_plane_layer_6_2.fds,6.204,2.77E-01,8000,1,0
+radiation_plane_layer_6_3.fds,1.607,8.46E-03,400,1,0
+radiation_plane_layer_6_4.fds,5.128,1.96E-02,400,1,0
+radiation_plane_layer_6_5.fds,5.211,9.21E-01,60000,1,0
+radiation_shield.fds,78.345,7.66E+01,1000,3132,24
+target_test.fds,6.496,4.19E+00,50,13,6446
+thermocouples.fds,72.013,7.02E+01,8000,1911,4
+TC_heating.fds,123.686,1.22E+02,8000,1879,8
+TC_view_factor.fds,72.698,7.09E+01,8000,2255,3
+wall_internal_radiation.fds,1.525,1.94E-03,60,1,0
+net_rad_1000_cgeom.fds,455.52,3.34E+02,288000,10,116
+net_rad_1000_obst.fds,281.69,2.13E+02,216000,10,98
+restart_test1a.fds,132.416,,,,
+57.041,5.42E+01,8192,765,8,
+geom_restart_base_case.fds,185.789,1.84E+02,1000,9900,18
+geom_ls_restart_base_case.fds,451.962,4.47E+02,12500,2129,16
+clocks_restart_a.fds,83.656,,,,
+28.038,2.52E+01,8000,1250,2,
+clocks_restart_base_case.fds,84.258,8.10E+01,8000,1251,8
+burke_schumann.fds,2.751,9.38E-01,60,2,0
+FED_FIC.fds,10.59,8.08E+00,500,1000,16
+FED_FIC_SMIX.fds,6.793,4.28E+00,500,1000,8
+FED_CO_HCN.fds,25.646,2.27E+01,125,1000,181
+FED_moving.fds,2.217,6.94E-01,1331,40,0
+mass_flux_comparison.fds,545.484,5.41E+02,40000,2355,5
+methane_flame_simple.fds,56.807,5.33E+01,2000,1000,26
+methane_flame_simple_2.fds,57.451,5.40E+01,2000,1000,27
+methane_flame_primitive.fds,62.642,5.97E+01,2000,1000,29
+methane_flame_primitive_2.fds,80.006,7.73E+01,2000,1000,38
+methane_flame_lumped.fds,78.133,7.50E+01,2000,1000,37
+methane_flame_lumped_fuel.fds,53.585,5.12E+01,2000,1000,25
+methane_flame_lumped_ox.fds,55.596,5.31E+01,2000,1000,26
+propane_flame_2reac.fds,140.053,1.34E+02,32640,463,8
+propane_flame_2reac_simple.fds,140.053,1.34E+02,32640,463,8
+multiple_reac_hrrpua.fds,7.381,2.78E+00,1000,145,19
+multiple_reac_n_simple.fds,6.144,1.70E+00,30,10,5666
+reactionrate_arrhenius_0order_1step.fds,14.337,1.24E+01,64,9900,19
+reactionrate_arrhenius_2order_1step.fds,5.915,3.07E+00,512,100,59
+reactionrate_arrhenius_1p75order_2step.fds,9.138,5.62E+00,512,200,54
+reactionrate_arrhenius_1p75order_2stepr.fds,8.265,5.83E+00,512,200,56
+reactionrate_arrhenius_equilibrium.fds,16.701,1.66E+01,16,9900,104
+reactionrate_EDC_1step_CH4_nonmix.fds,9.148,8.22E+00,100,6000,13
+reactionrate_EDC_flim_1step_C3H8.fds,6.049,5.02E+00,512,200,49
+reactionrate_EDC_flim_1step_CH4.fds,5.921,4.88E+00,512,200,47
+reactionrate_EDC_flim_2step.fds,3.361,6.01E-02,16,100,0
+reactionrate_EDC_O2lim_1step.fds,3.169,3.96E-01,512,20,0
+reactionrate_EDC_O2lim_2fuel_prim.fds,3.305,8.22E-02,16,100,0
+reactionrate_EDC_O2lim_2fuel_lump.fds,3.33,6.33E-02,16,100,0
+reactionrate_fast_slow.fds,145.996,1.42E+02,8000,999,17
+reactionrate_lumped_two_air.fds,2.027,5.28E-02,16,100,0
+reactionrate_lumped_two_air_2.fds,2.02,5.32E-02,16,100,0
+reactionrate_series_reaction.fds,2.448,2.48E-03,16,2,0
+pvc_combustion.fds,2.537,1.06E-01,16,200,0
+hrrpuv_reac_simple.fds,175.688,1.69E+02,100000,318,5
+hrrpuv_reac_extinction.fds,168.347,1.62E+02,100000,318,5
+hrrpuv_reac_single.fds,164.831,1.59E+02,100000,314,5
+hrrpuv_reac_parallel.fds,171.828,1.66E+02,100000,294,5
+hrrpuv_reac_parallel_2.fds,195.921,1.89E+02,100000,295,6
+hrrpuv_reac_series.fds,399.858,3.92E+02,100000,465,8
+hrrpuv_reac_soot.fds,12.024,8.10E+00,400,170,119
+hrrpuv_reac_arrhenius.fds,4.89,2.52E+00,64,80,492
+ramp_chi_r.fds,37.265,3.32E+01,4096,1077,7
+bound_test_1.fds,0.76,1.30E-02,16,10,0
+bound_test_2.fds,0.963,6.99E-03,16,10,0
+species_props.fds,1.666,2.93E-01,20,2,0
+condensation_1.fds,0.333,1.43E-01,125,100,0
+condensation_2.fds,1.48,1.28E+00,125,1000,10
+condensation_3.fds,3.925,1.25E+00,20,10,6265
+wall_cond.fds,80.487,8.00E+01,27,9900,299
+humidity.fds,1.818,1.47E-02,64,3,0
+mass_flux_wall_yindex.fds,345.943,3.44E+02,8000,7923,5
+mass_flux_wall_zindex.fds,351.418,3.49E+02,8000,7923,5
+mass_balance_gas_volume.fds,354.703,3.53E+02,8000,7923,5
+mass_balance_reac_2.fds,509.103,5.02E+02,160,400,7839
+activate_sprinklers.fds,45.957,4.57E+01,2100,1803,12
+adiabatic_surf_temp_spray.fds,194.603,1.91E+02,8000,4465,5
+bucket_test_2.fds,83.495,7.68E+01,62500,241,5
+bucket_test_3.fds,49.819,4.63E+01,8000,1000,5
+bucket_test_4.fds,179.691,1.80E+02,8000,4950,4
+cannon_ball.fds,2.11,2.74E-01,9000,5,0
+cascade.fds,177.668,1.77E+02,14336,938,13
+droplet_distributions.fds,11.221,1.05E-01,64,1,0
+droplet_distributions_2.fds,188.985,1.89E+02,64,5500,536
+flow_rate.fds,137.724,1.37E+02,25600,778,6
+flow_rate_2.fds,175.041,1.74E+02,25600,851,8
+particle_anisotropic_radi.fds,194.1,1.92E+02,40,1000,4792
+particle_isotropic_radi.fds,195.149,1.93E+02,40,1000,4817
+particle_colors.fds,74.701,7.16E+01,2048,1510,23
+particle_drag_U10_N16.fds,4.501,4.34E+00,64,8020,8
+particle_drag_U50_N16.fds,10.88,1.06E+01,64,9900,16
+particle_drag_U100_N16.fds,10.877,1.06E+01,64,9900,16
+particle_drag_U50_N1600.fds,19.012,1.87E+01,64,1601,182
+particle_drag_U100_N1600.fds,18.026,1.73E+01,64,4001,67
+particle_drag_U150_N1600.fds,33.88,3.38E+01,64,7201,73
+particle_flux.fds,123.616,1.19E+02,62500,427,4
+particle_heating_convection.fds,56.738,5.66E+01,1000,9000,6
+particle_heating_radiation.fds,486.156,486.081,1000,45000,10
+sphere_drag_1.fds,2567.441,2.57E+03,200,6186,2073
+sphere_drag_2.fds,75.177,7.23E+01,10000,627,11
+terminal_velocity_dt_1_0.fds,0.328,1.15E-01,160,20,0
+terminal_velocity_dt_0_1.fds,0.48,2.58E-01,160,200,0
+terminal_velocity_dt_0_01.fds,1.449,1.23E+00,160,2000,3
+terminal_velocity_dt_0_001.fds,11.946,1.17E+01,160,9900,7
+terminal_velocity_dt_0_0001.fds,114.8,1.15E+02,160,9900,72
+flat_fire.fds,0.932,6.38E-01,5000,33,0
+fluid_part_mom_x.fds,7.479,7.25E+00,640,251,45
+fluid_part_mom_y.fds,7.094,6.59E+00,640,251,41
+fluid_part_mom_z.fds,7.329,6.59E+00,640,251,40
+water_evaporation_1.fds,16.398,1.51E+01,1000,1000,15
+water_evaporation_2.fds,366.274,3.65E+02,64,9900,576
+water_evaporation_3.fds,336.677,3.35E+02,1000,8000,41
+water_evaporation_4.fds,61.959,6.10E+01,3000,556,36
+water_evaporation_4_np100.fds,44.862,4.39E+01,3000,565,25
+water_evaporation_5.fds,53.196,5.27E+01,64,9900,83
+water_evaporation_6.fds,50.612,4.97E+01,1000,4001,12
+water_evaporation_6a.fds,86.864,8.60E+01,1000,4000,21
+water_evaporation_7.fds,2036.251,2.03E+03,6000,9900,34
+water_evaporation_8.fds,102.138,1.02E+02,3630,8000,3
+water_fuel_sprays.fds,1856.996,1.85E+03,25000,8914,8
+screen_drag_1.fds,230.068,2.29E+02,60,2218,1721
+screen_drag_2.fds,323.315,3.22E+02,60,5746,935
+porous_media.fds,1255.788,1.25E+03,72,5000,3475
+water_evap_1_const_gamma.fds,16.163,1.52E+01,1000,1000,15
+pulsating_FL0_16.fds,5.232,4.76E+00,256,125,148
+pulsating_FL0_32.fds,9.855,9.56E+00,1024,234,39
+pulsating_FL0_64.fds,40.744,4.02E+01,4096,458,21
+pulsating_FL0_128.fds,263.142,2.58E+02,16384,911,17
+pulsating_FL2_16.fds,4.786,4.34E+00,256,125,135
+pulsating_FL2_32.fds,9.833,9.33E+00,1024,234,38
+pulsating_FL2_64.fds,38.715,3.81E+01,4096,458,20
+pulsating_FL2_128.fds,228.077,2.23E+02,16384,911,14
+pulsating_FL4_16.fds,4.413,4.25E+00,256,125,132
+pulsating_FL4_32.fds,10.416,1.02E+01,1024,234,42
+pulsating_FL4_64.fds,41.046,3.99E+01,4096,458,21
+pulsating_FL4_128.fds,255.451,2.51E+02,16384,911,16
+compression_wave_FL0_16.fds,19.306,1.83E+01,256,539,132
+compression_wave_FL0_32.fds,57.254,5.63E+01,1024,1887,29
+compression_wave_FL0_64.fds,196.159,1.95E+02,4096,3773,12
+compression_wave_FL0_128.fds,1092.261,1.09E+03,16384,7546,8
+compression_wave_FL2_16.fds,33.37,3.19E+01,256,944,132
+compression_wave_FL2_32.fds,58.964,5.76E+01,1024,1887,29
+compression_wave_FL2_64.fds,187.075,1.86E+02,4096,3773,12
+compression_wave_FL2_128.fds,1071.733,1.07E+03,16384,7546,8
+compression_wave_FL4_16.fds,33.381,3.19E+01,256,944,132
+compression_wave_FL4_32.fds,58.863,5.74E+01,1024,1887,29
+compression_wave_FL4_64.fds,193.568,1.92E+02,4096,3773,12
+compression_wave_FL4_128.fds,1001.604,9.97E+02,16384,7546,8
+compression_wave_FL5_16.fds,33.337,3.25E+01,256,944,134
+compression_wave_FL5_32.fds,58.901,5.81E+01,1024,1887,30
+compression_wave_FL5_64.fds,203.446,2.02E+02,4096,3773,13
+compression_wave_FL5_128.fds,1020.977,1.02E+03,16384,7546,8
+move_slug.fds,205.877,2.04E+02,160,678,1875
+move_slug_fl1.fds,203.476,2.01E+02,160,678,1854
+shunn3_32.fds,9.341,7.50E+00,1024,58,126
+shunn3_64.fds,20.876,1.89E+01,4096,99,46
+shunn3_128.fds,94.789,9.04E+01,16384,186,29
+shunn3_256.fds,574.966,5.29E+02,65536,363,22
+shunn3_512.fds,4043.476,3.31E+03,262144,727,17
+shunn3_256_cfl_1.fds,53.54,3.93E+00,65536,2,29
+shunn3_256_cfl_p5.fds,58.732,8.51E+00,65536,4,32
+shunn3_256_cfl_p25.fds,64.78,1.54E+01,65536,8,29
+shunn3_256_cfl_p125.fds,79.509,2.89E+01,65536,16,27
+shunn3_256_cfl_p0625.fds,105.038,5.47E+01,65536,32,26
+saad_512_cfl_1.fds,14.092,1.29E+01,2048,100,63
+saad_512_cfl_p5.fds,20.084,1.89E+01,2048,200,46
+saad_512_cfl_p25.fds,39.307,3.81E+01,2048,400,46
+saad_512_cfl_p125.fds,88.375,8.70E+01,2048,800,53
+saad_512_cfl_p0625.fds,116.693,1.15E+02,2048,1600,35
+shunn3_FavreZ_32.fds,55.829,5.45E+01,1024,545,97
+shunn3_FavreZ_64.fds,156.65,1.55E+02,4096,976,38
+soborot_godunov_square_wave_16.fds,2.529,7.90E-01,256,109,0
+soborot_godunov_square_wave_32.fds,2.72,1.55E+00,1024,220,6
+soborot_godunov_square_wave_64.fds,17.252,1.59E+01,4096,444,8
+soborot_superbee_square_wave_16.fds,3.156,1.06E+00,256,55,75
+soborot_superbee_square_wave_32.fds,2.191,8.83E-01,1024,111,0
+soborot_superbee_square_wave_64.fds,8.777,7.45E+00,4096,223,8
+soborot_superbee_square_wave_128_1mesh.fds,64.153,6.04E+01,16384,447,8
+soborot_charm_square_wave_16.fds,1.84,4.89E-01,256,55,0
+soborot_charm_square_wave_32.fds,2.266,9.16E-01,1024,111,0
+soborot_charm_square_wave_64.fds,9.325,8.70E+00,4096,223,9
+soborot_charm_cos_wave_16.fds,0.972,8.06E-01,256,55,0
+soborot_charm_cos_wave_32.fds,2.594,1.84E+00,1024,111,16
+soborot_charm_cos_wave_64.fds,9.618,7.92E+00,4096,223,8
+soborot_superbee_cos_wave_16.fds,2.06,1.44E+00,256,55,102
+soborot_superbee_cos_wave_32.fds,2.042,1.53E+00,1024,111,13
+soborot_superbee_cos_wave_64.fds,8.35,7.67E+00,4096,223,8
+soborot_mp5_cos_wave_16.fds,1.739,1.10E+00,256,55,77
+soborot_mp5_cos_wave_32.fds,2.328,1.65E+00,1024,111,14
+soborot_mp5_cos_wave_64.fds,9.182,8.46E+00,4096,223,9
+race_test_1.fds,343.214,3.38E+02,84,954,4222
+race_test_4.fds,271.358,2.67E+02,84,954,3328
+openmp_test64a.fds,1275.035,1.26E+03,262144,1356,3
+openmp_test64b.fds,750.546,7.42E+02,262144,1356,2
+openmp_test64c.fds,608.093,6.00E+02,262144,1356,1
+openmp_test64d.fds,496.959,4.89E+02,262144,1356,1
+openmp_test64e.fds,451.337,4.44E+02,262144,1356,1
+openmp_test64f.fds,528.352,5.20E+02,262144,1356,1
+openmp_test64g.fds,369.199,3.63E+02,262144,1356,1
+openmp_test64h.fds,408.615,4.02E+02,262144,1356,1
+openmp_test128a.fds,628.728,5.17E+02,2097152,81,3
+openmp_test128b.fds,365.03,3.09E+02,2097152,81,1
+openmp_test128c.fds,336.45,2.82E+02,2097152,81,1
+openmp_test128d.fds,325.136,2.71E+02,2097152,81,1
+openmp_test128e.fds,231.15,1.88E+02,2097152,81,1
+openmp_test128f.fds,267.123,2.21E+02,2097152,81,1
+openmp_test128g.fds,215.831,1.73E+02,2097152,81,1
+openmp_test128h.fds,248.776,1.99E+02,2097152,81,1
+csmag0_32.fds,11.236,1.03E+01,32768,46,6
+csmag_32.fds,6.867,5.90E+00,32768,28,6
+csmag_64.fds,56.54,5.21E+01,262144,58,3
+dsmag_32.fds,10.55,9.48E+00,32768,32,9
+dsmag_64.fds,75.7,7.12E+01,262144,63,4
+mu0_32.fds,141.999,1.41E+02,32768,670,6
+deardorff_32.fds,8.003,7.08E+00,32768,31,6
+deardorff_64.fds,62.501,5.78E+01,262144,63,3
+vreman_32.fds,7.545,6.76E+00,32768,32,6
+vreman_64.fds,66.983,6.22E+01,262144,65,3
+wale_32.fds,11.31,1.04E+01,32768,47,6
+wale_64.fds,92.37,8.74E+01,262144,95,3
+yplus_8.fds,55.451,5.52E+01,64,3393,254
+yplus_16.fds,65.964,6.57E+01,128,9900,51
+yplus_32.fds,141.29,1.41E+02,256,9900,55
+sem_flat_leddy_p2.fds,423.442,4.23E+02,35937,3198,3
+sem_par_leddy_p2.fds,251.667,2.51E+02,35937,2790,2
+sem_atm_leddy_p2.fds,545.879,5.43E+02,35937,3770,4
+sem_ramp_leddy_p2.fds,270.429,2.70E+02,35937,2650,2
+sem_open_wind.fds,1089.521,1.09E+03,99840,3026,3
+ramp_prof_u_z.fds,2051.172,2.05E+03,24000,9900,8
+Bova_1a.fds,13.412,1.16E+01,40000,465,0
+Bova_1b.fds,18.853,1.71E+01,40000,697,0
+Bova_4a.fds,23.046,2.13E+01,40000,929,0
+bulk_density_file.fds,5.857,9.53E-01,75000,1,0
+char_oxidation_1.fds,111.511,1.07E+02,4500,2501,9
+dragon_5a.fds,1340.326,1.34E+03,12000,9900,11
+hot_rods.fds,1246,1.25E+03,1000,9900,35
+level_set_fuel_model_1.fds,325.027,3.21E+02,25600,2463,5
+LS_ellipse_0ms_00deg.fds,4.923,4.25E+00,12500,392,0
+LS_ellipse_5ms_00deg.fds,17.362,1.67E+01,12500,3125,0
+LS_ellipse_0ms_30deg.fds,12.287,8.60E+00,12500,575,1
+LS_ellipse_5ms_30deg.fds,21.355,1.76E+01,12500,1451,0
+LS4_ember_ignition.fds,66.201,6.25E+01,20,1024,3049
+LS4_ember_yield.fds,122.871,1.23E+02,8000,2131,7
+part_drag_prof_ux.fds,2.084,4.05E-02,500,1,0
+part_drag_prof_uy.fds,4.014,1.91E+00,500,50,76
+part_drag_prof_uz.fds,4.108,2.04E+00,500,50,81
+part_drag_prof_vx.fds,4.54,2.22E+00,500,50,88
+part_drag_prof_vy.fds,2.366,5.00E-02,500,1,0
+part_drag_prof_vz.fds,4.553,2.22E+00,500,50,88
+part_drag_prof_wx.fds,4.729,2.32E+00,500,50,92
+part_drag_prof_wy.fds,4.722,2.32E+00,500,50,92
+part_drag_prof_wz.fds,2.45,4.54E-02,500,1,0
+part_drag_stretched.fds,20.047,1.76E+01,8000,222,9
+pine_needles.fds,23.937,2.19E+01,1000,1000,21
+radiation_gas-veg_consistency_gas.fds,15.878,1.53E+01,5760,389,6
+radiation_gas-veg_consistency_veg.fds,25.994,2.53E+01,5760,389,11
+random_walk_1.fds,80.561,8.01E+01,2000,119,336
+random_walk_2.fds,74.775,7.43E+01,2000,119,312
+tree_shapes.fds,16.562,2.76E+00,384000,3,2
+vegetation_drag_1.fds,55.455,5.33E+01,120,283,1568
+vegetation_drag_2.fds,89.811,8.75E+01,120,443,1645
+e38cc48af,,,,,
+120935.076,,,,,
